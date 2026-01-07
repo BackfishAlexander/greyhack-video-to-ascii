@@ -17,8 +17,12 @@ ASCII_CHARS_DETAILED = " .:-=+*#%@"
 ASCII_CHARS_SIMPLE = " .,;:+*?%$#@"
 ASCII_CHARS_BLOCKS = " ░▒▓█"
 
+# Extended unicode character sets for more depth (no quotes, backslashes, or forward slashes)
+ASCII_CHARS_UNICODE = " .'`^,:;Il!i><~+_-?][}{1)(|tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$"
+ASCII_CHARS_UNICODE_EXTENDED = " .`'^,:;-~=+<>()[]{}|?!ilIjtfr1xnuvczJCLUYXZO0Qoahkbdpqwm*WM#%&@$█"
+ASCII_CHARS_SHADING = " ·˙‥…⁘⁙░▒▓█▪▫▬▭▮▯"
+ASCII_CHARS_DENSE = " .'`^,:;~-_+<>i!lI?|()1{}[]rcvunxzjftLCJUYXZO0QoahkbdpqwmMW*#%&@$▓█"
 
-WAIT_TIME = 0.1
 
 def resize_frame(frame, new_width):
     """Resize frame while maintaining aspect ratio adjusted for terminal characters."""
@@ -95,32 +99,31 @@ def process_video(video_path, width, ascii_chars, skip=1):
     return frames, fps
 
 
-def generate_greyhack_script(frames, output_path):
+def generate_greyhack_script(frames, output_path, wait_time=0.1):
     """Generate a GreyHack .src script file from ASCII frames."""
     print(f"\nGenerating GreyHack script...")
     
-    with open(output_path, 'w') as f:
-
-        f.write("while true\n")
-
+    with open(output_path, 'w', encoding='utf-8') as f:
+        # Start the infinite loop
+        f.write('while true\n')
+        
         for i, frame in enumerate(frames):
-            # Escape any quotes in the frame content
-            escaped_frame = frame.replace('"', '\\"')
+            # Escape quotes by doubling them (MiniScript syntax)
+            escaped_frame = frame.replace('"', '""')
             
             # Write the print statement with multiline string
             f.write(f'print("{escaped_frame}")\n')
             
-            # Add wait and clear_screen between frames (not after the last frame)
-            if i < len(frames) - 1:
-                pass
-                f.write(f"wait({WAIT_TIME})\n")
-                f.write('clear_screen\n')
+            # Add wait and clear_screen after each frame
+            f.write(f'wait({wait_time})\n')
+            # f.write('clear_screen\n')
             
             # Progress indicator
             progress = (i + 1) / len(frames) * 100
             print(f"\rWriting script: {progress:.1f}% ({i+1}/{len(frames)})", end="", flush=True)
-
-        f.write("end while\n")
+        
+        # End the infinite loop
+        f.write('end while\n')
     
     print("\nScript generation complete!")
 
@@ -133,9 +136,19 @@ def main():
 Examples:
   python ascii_video.py video.mp4
   python ascii_video.py video.mp4 --width 80
-  python ascii_video.py video.mp4 --skip 3              # keep every 3rd frame
-  python ascii_video.py video.mp4 --width 60 --skip 5 --output myvideo.src
-  python ascii_video.py video.mp4 --style blocks
+  python ascii_video.py video.mp4 --skip 3                    # keep every 3rd frame
+  python ascii_video.py video.mp4 --wait 0.05                 # faster playback
+  python ascii_video.py video.mp4 --style extended            # max detail unicode
+  python ascii_video.py video.mp4 -w 60 -k 5 -t 0.2 -o out.src
+
+Styles (by detail level):
+  simple    - 11 basic ASCII chars
+  detailed  - 10 ASCII chars  
+  blocks    - 5 block elements (░▒▓█)
+  shading   - 17 shading/dot chars
+  unicode   - 68 chars (recommended)
+  extended  - 66 chars with blocks
+  dense     - 68 chars (max detail)
         """
     )
     
@@ -144,10 +157,13 @@ Examples:
                         help="Width in characters (default: 80)")
     parser.add_argument("--skip", "-k", type=int, default=1,
                         help="Process every Nth frame (default: 1, no skipping)")
+    parser.add_argument("--wait", "-t", type=float, default=0.1,
+                        help="Wait time between frames in seconds (default: 0.1)")
     parser.add_argument("--output", "-o", type=str, default=None,
                         help="Output .src file path (default: <video_name>.src)")
-    parser.add_argument("--style", "-s", choices=["detailed", "simple", "blocks"],
-                        default="detailed", help="ASCII character style")
+    parser.add_argument("--style", "-s", 
+                        choices=["detailed", "simple", "blocks", "unicode", "extended", "shading", "dense"],
+                        default="unicode", help="Character style (default: unicode)")
     
     args = parser.parse_args()
     
@@ -167,7 +183,11 @@ Examples:
     ascii_styles = {
         "detailed": ASCII_CHARS_DETAILED,
         "simple": ASCII_CHARS_SIMPLE,
-        "blocks": ASCII_CHARS_BLOCKS
+        "blocks": ASCII_CHARS_BLOCKS,
+        "unicode": ASCII_CHARS_UNICODE,
+        "extended": ASCII_CHARS_UNICODE_EXTENDED,
+        "shading": ASCII_CHARS_SHADING,
+        "dense": ASCII_CHARS_DENSE
     }
     ascii_chars = ascii_styles[args.style]
     
@@ -178,7 +198,8 @@ Examples:
     print(f"Output file: {output_path}")
     print(f"Width: {args.width} characters")
     print(f"Frame skip: {args.skip}")
-    print(f"Style: {args.style}")
+    print(f"Wait time: {args.wait}s")
+    print(f"Style: {args.style} ({len(ascii_chars)} characters)")
     print("=" * 50)
     print()
     
@@ -190,7 +211,7 @@ Examples:
         sys.exit(1)
     
     # Generate the GreyHack script
-    generate_greyhack_script(frames, output_path)
+    generate_greyhack_script(frames, output_path, args.wait)
     
     # Summary
     file_size = os.path.getsize(output_path) / (1024 * 1024)  # MB
