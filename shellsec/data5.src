@@ -1,0 +1,880 @@
+f80 = "     .            .     .            .          .                       .                                                     ..             .                   .                  
+  . .. .           .  .     ..   .. .   . ..                               .     ....  ........................           .               . .    .      ..         . . ..   ..   .. 
+  ...          ...  .        .           .                                   .   ....  ..... ... .......... ..                          .     ..       ..   .    .     .. . ..  ... 
+  ..   .    .  .  ..         .        .. ..               ...        .            .. . ....  ....... ..............                              ...      ....          . ..      . 
+                 ...   .           .         ...   . ..                      ..   .                    ........  ... ...                       .      ..   .     ..         .. .    
+        .      .      .     .    ..          . ..  .....         .   .. .....  . l]jXQmwpddboZho*oooh^    .  ..   ......... ..     ..  .            .    . .          ...   .       
+  ..    .     .    . . ...    ....       .            .       ... . .......  l:;?)nzQQZmmwdba>bao******###C            ........          .       .     .                        .   
+ . .   .   .   .            .      .                          . . . ..    I,``,[xJQQO00OmwZa*Ld##MM#MMMM##MMMMo      .     .. .                  .      .   .              . .      
+                            ..       ...              .      . . ....   [il`^~(vUJ0OZOZZZwmbhMJ*M#########o#MMWWWW  . .... . ...                   .          . .                   
+           .                                         .          . .    (1!.'I[fY0LZOOQLQCwZdh#ZoMMMM###MMMMWWW&&&&&8<   .. .   ..                                         .         
+            .                                            ......      wYc-' .i)vXLJ0CY1LYOmbo:booo#MWMM##MW&&&88&W88888.    ... . ...                                    .  .        
+                . .                                   . .           *kqJ>   ^<{rXYcfxzQOZbdwCboooo#####MMW&8&8888888%8M8        ..  .                                   .     .     
+                                                            .      [#ddf     ,l_?]?xOdddpmbLrwbhoakkokhaMW8%8%%%%%%%%%8&8      . ...                    .               .  .      . 
+                       .                .              .   . .     ##m(.   .^^''.;Oq0zc{nZ0a mqkkbbbkdda*MW&&88%%BB%%%%8&j   ...   .                                      .       . 
+                                                         ..       wmhr' ^,!>:   Xdnf>_??rnJQ0+Owbkhbdphoao*#M&&8%8%%%%d8%%    .    .. .                                 . .  .      
+                ..          .  ..                      .         )cdo^   `){.  Jk([:l.^~<[ufzo^Xbahbqbh*ahaha##&8%%%%%#%%%M   . . . ...                                             
+         .                .            .                ...    . Y&M   ^X. t). &u!^`'''^;(1-z0udvqqqbo)0,k*koo*#M&8&8d88%%8 .   .. .. .                 .                 .    . .  
+         . .                                          ..          Bf       . <lOz-:`'.. .^}X'vYUOwqqwqhhh*#*,*M#MMWM*MZ&888  .  ..  ...                .                     .      
+               .        .                             ..          C .          .Ux:''.'''.>::>txJLZOmbpkhhh*MWZ#MxcM##M&88%:   ..  ....                                            .
+            .    .                                .   . ..     .  .            ' ?h',``.`'-II{uXncvYYOOkah*#MWW88jbW&&M&&&8>   ...  ...                                 .           
+           .                                          ....      ^.               `,b'...'''``i1runu)uZqqwqaMW&8%8&OdW&WW&W8l ... .. ...                                 .    .     .
+                                                 .    ..    .  '                Ii,J`''''''.^'^?n(>_LOppZbhhdhoMWWM#a&WWWW8    ...  ..                                    .   . . ..
+                                                      .          .            .rri}8.. ''''''...^<!!C~0mpahdqLOh#**oaM&*WWW   ...  ...            .                     .           
+                                                       ...    . ...          >vCn>1h)...'''''''...!IzXULYOkkb0wb*#omb*WWWW-   ..    .                                   ...         
+                                                  . . ..      . .  l      .    uJzn)YCCOqhMW&80l^(qMMWO}<;zpdubo*###oWWWM#  .   .                                      .        .   
+                                                    .         .  I             IQJUutxXUZbxj|c0bo`,..'r;i JbOZh###Ykh#&WW.  ..                                                      
+                                                   ... ...       _ .         .  .l{j->. .....  :a  .   U<ip*bhOqokoo#**#<    .  . ..                                                
+                                       ..         ... ...    .  '.          .:v0Xz;  `:..^^i'. rW}.:v :ccd*MM*krd*ohbpd   ..   .. .                                       .     .   
+                                                      ..            .      ..<|rYn ,'zYk*`.'i}(m`..`.. .XhqkbQf!1~-zt'         ...                                                 .
+                                                           .   w.i   .    ' ''..`[...wdpppmqQuca Q` b. .<mh.  ....         ..  ..                                           .       
+                                              .     .      .  b Z.  ,~._^:u>]t. '..~^mhbwOLmQzb      .^`.          . .      ..                                         .           .
+                                          .. . .   .         ^> ., `X` X^'Q lc  .'~;'qqppwdpLZ'                     ..  .                                                   .       
+           .           ..             . ..    .. . ...       &h..` -L~ILIQb.1Q  '!;'wqOwObdmmW                     .  ...  .                                                        
+                                 . .          ..     ..  ..   ,i' :a.h.IhILa`t]   .wp0ZqLbddh              .               ..   .                                               ..  
+                              .      .            -[}}?(       t   ` uv<wUCdZu{!.thpCLLLZwqa# ujffj                 .  .    .. .... .... ...... ..  .... .                          
+                        . . .      ^l~~++++)nxj   ;][[nw       J~... `Y-zJJZYr[IYqbbpU****OaM -oahb  .    vxUJXzcYWB+     .. ..   ........    .     .     .                   .     
+                          ...    k<~~~~~~+++_-MY  )]]]uw       Bv[  ,:tcftrvcnJmpwqppYMM##Zb'.-*oob    `iZ0QCJUXXzczz]                 .  ..               .                        
+                         ..     Z~<<<+u^  `Yl+aX  ~??]rZ       Q    n)-(+jfjxuJqkdwc_vMWWMC  .[M#*d   .fqmOQu}   1x}c]                                                              
+                         .  .   I>>>~C+      .}   l???xC O}(fYmz   I{__])-Xqpwqw.    vW&WW0   1M##d   vbpwZh       .,.     >QJdah&Bz    .    YXd88W%@k    .  .      .               
+                           ...  `<>>>?Qux         I??]|1{11)(|trW  .';_QZqdbhao*#&.  0MWW&L.  1M#*q   idpmOQMk>    . .  .C}XvvcczzzXXB    fqx0OZmwqpdkh[     .                   .  
+                           ..    l><>>>><<uZzr    i---?}+:'^(||tcY  qUJLZu   'Yo*#%  pWWWWU   )#**p    +wZOQCUYzvWo     0junnz.  ~-zXYM  0zLLLQ0z..')?d}                            
+                                  .:i>>>><<<<nLQ  ?_--xn    ~)(|tQ  uzYCWLJYUUOho**, pMMM#X   )*oap      m(LUYXcvvun@. |~xnnXuuunxc)cczY;wJUUJC .       .                           
+                             . .    . ,(:>><<~+C. }__-Qx    v1)(t0 fnvcXJLQZmqpdbhh> Joo*ou   1hkbm    .     j(]unnxxL L|xxxxnnnuuuvvczQXdXXYUY .                                   
+                           ..   .`    ..  +<<<<k] -+_-Qr    c{1)|U ]jxucz.     .     )bkkku   }pqwm              >rrrrix-rrrh      .    fYcXXXp       ..     ..                     
+                 .             .!qnr;     ^>><<(  I+++0(    u}{11n  [rxn%0       bj  uwqwqX   }mOOm   [U$c      wxrjff  |rrjrd      luY  {jzccX.    >czQ..  .                    .  
+                          .     I!!i<(1?>>>>>>O   ,+++L1    r[}{1n   )jjxukZXxfUUUt  CZO00@w  -QCJJ@* 1vnxrxkkZnfffffi.  `jjrrvB%oakCuZ   ,nvccXOB%8WXXn    .                       
+                                `!i!!!!iiii>?.    `+++L{    )[[}{t   .'frrrxnuvccft   lLCCCp  .YYYXzQ ,Ixxrjjjffft|0      'lrrrrrrrxxrn    .^vvvvcvvczzc.  ..                       
+                                    . ...   .       .      .           ..  .``         .   . .           .  .``.               `!>^     .  .    ^<<'       ..                       
+                                                              .         .  .              .               .  .                              .           .            .              
+               .                .. ..,,'......    . .  ^   .' .. '     .. .........  ... ...     .... ......'''''. .      ..   .'^`. ..   . ....'`^`      .          .      .       
+                               .^,^:::::::::;I`. .<lllm_    _i<<(c   ':!_[}{1)1}?_<. ^~{(()O'.!>[1)(c l,i_][[[[]]}[l'   .``;<-[}{111[_i ..^``!])tffft}~;.                           
+                               .,::;IlII:::;l{}I. ,ll>w1.  .!<<<JL'.^i?[}1){}}{)|X|  >fjfjXm`,+ft|jcX`1111(((1}][[[[}l.`il+[}{juvnj|(|X.^>l<)|frcXYzcnn1                .. u        
+                               ,l<~>;^````;;;If(;.>Il<dj'. .<~<<YQ`!??[{Uu<IIiii~cx,`!frrQO+.:[jf|q(< _1nt]>I;^,{{[]}ji<)?[}uQj-!ll>+(C^i+-|tfXCj-+-{rYj                 uf << . ^  
+          ..                   '!l,...'`^>+;;IrL!;t!l+mn^  '-+<<XJ;)1?]Xk)+~><<~+-1_!]rnrO0]!!{rjxdf' ;~!`.'```If|]]}U|)1[}|Oz?+<lIll!-!}f1||uY+`    :++                        .   
+    .                           ...^:IIIli;:;+Q0<>v+I-df^  ,]~<+UZi11?]tu|)1}[[}{(Cj1nuuuO0x)-frrnq|' .'`:!<++~+[}[[fOjx([[{vx|(){{}{{vrfx||fzvl.   ..                              "
+f81 = "     .            .     .            .          .                       .                                                     ..             .                   .                  
+  . ....              .     ..   .. .   . ..                               .      .... ........................           .               . .    .      ..         . . ..   ..   .. 
+  ..    .      ...  .        .                                                   ....  ..... ............... .                          .     ..       ..   .  . .     .. . .   ... 
+  ..   .    .  .  ..         .        .... .              .          .             . . ....  ....... ..............       ..                     ...      ....          . ..      . 
+                 . .   .           . .     .   .   ....                      ..   .                    ........  ... ...                       .      ..   .  .  ..         ..      
+  ..   ..                   .    .           . .  . ....         .   .. .....  . ;?jX0Zqqpdk*dho*oooa;    .  .    ......... ..     ..  .            .    . .    .    ....   ....    
+  .           .    ... ...    ....       .           ..       ..  . .......  I;I])xzC0ZmZwpbWqhoo******###w            ........   .      .       .   . .                        .   
+ . .   .   .   .              .    .                          . . . ..    ;,'.;[nJULQLLZmObh*)o*##########M#MMM      .     .  .                  .          .  .           . .      
+                            ..       ...              .     .. . ....   {<l';+jvXJLOQ0QO0Oqk*'bM#*#####*#*oMMWWWWW  ...... . ...                   .            .       .           
+           .                                         .        .   .    (); `>]xYJCQQCJCU0Qmb*jh##MM*####MMMWWW&&&&&&Y   .. .   ..                                         .         
+            .                                            .. ...      ZYr+. `+|vcXJJzXXzYLqkImhoa*#MM#*##MWWW&&8&888888I    ... . ...                                    .  .        
+                . .                                   . .           *bdc'   ;+)rzu|}nCwwdwa)qahhao*oo*#MMW&&W&%%%8%8%%#%   .    ..  .                                   .     .     
+                                                            .      !Mkm1    ``l?_i}Ywppq0mM!Owbhkbdkhkb*M&88888%%%B%%%8&%        ...                    .               . ..      . 
+                       .                               . . .       MMm-.   ...' .YmOcu{zUCw^CZdbdddddwkh*#MWW&8%%B%%%%%88O   ....  .                                      .       . 
+                                                         ..       Zbp+ .'.;^.  imz1~<-+]1zJo`CZpdkdpwbahha**MW&88%%%%8%%%%.   .    .. .                                 . .  .      
+                ..      .   .  ..                      .         )Chh'   <-'  >#n?<I.',!<1njq})mhdbqpbhkhkhkaaM&88%%%%B%%%8   . . . ...                                             
+         .                .            .              . ...      &%f...q< _[. hz}:''''',-[>|U;wOpZqqbrZ1poqaho*##&&8%h&8%%8 .   .. .. .                 .                 .    . .  
+         . .                                          ..         .%.       `:lnQ{`.''. '.lj:rucCOmmZ0bkbh**<C#**#W&xaM#88%8> .  ..  ...                .               .     .      
+               .        .                             ..          0.  .  .   ' |w`'''''. ''.l[(vU0QLqmdkkqh#M:oMwk]MM*W&8%%w   ..  ....                                .     .      
+            .    .                                .   . ..     .  .             ld,^'`.,'l!:!fxrjrzzJZqbhk*#MWW8&QM&&&MW&&8%   ...  ...                                 .           
+           .                                          ....      ^                'Lt' .'^''':+(ftf(nCqwwwkoMW&88&W>d&&WW&W88  .. .  ...                                 .          .
+                                                 .    ..    .. ;          .    :,`f!'''''''`..;})linLmpQmhhwhk#WWM#rMWWWWW&~   ...  ..                                        . . ..
+                                                      .        ^.             (t!!M....'''''....;l,r1U0wpakmOvpo***UoWW#MWW   ...  ...            .                     .           
+                                                       ...       ^.         ,fLf!~qk..'..'.'''.' ^:1XxuCYqhbmZwh#*odhoMWWW8 .  .    .                                   ...         
+                                                    . .. ...  . .        '.   (Jnr[cYnLZb#WW&q<`iZoMMqf>,_mbO(ak*#o**WWWMM . .  .                                      .  .     .   
+                                                    .         .  . -       .' .XXcu1fcvQdvf}rJdo.`'..~I] ;mq0qo##o0doMWWWl   .                                                      
+                                                   ... ...       ` x        .  .^!(?I! ......  q  .    X`ZakhCZk*p******q    .  .                                                   
+                           .           ..         .......      Y. `        .'jQvx] ..^I .`^v! ~q,` 0 `'{pkMMMaZiChahbpb]  .    .. .                                       .     .   
+                                                               .    .       ;tcXY| '1vZa|  ,[]U8`.' '. ]Q0hqZL`-r~_c|,  .      ...                                                 .
+                                                      .       `J,   ..   . .`'.'! .'|pbwZOwLc)m  .;.). ,Yk_.  ....         .   ..                                           .       
+                                                 ......       X.'.  >;,<.]l>]' .I..'ndwmmOwOnLx      '`.           . .    ..                                           .           .
+                                          .. . .   ...  .    &a    [L <r r~ )   ^ i;wqmZmObCCa                     ... .   . .                                              .       
+           .           ..             .  .     ... ...       ;,X' ^)0'tYuO;_n  .`iIjwmmm0qwCh.     .    . .        .  ... .                                                         
+                                 . .          .       . .    .i   Z.c* Jd>k`,)    YbZcOJwdpb#                              ..    .                                              ..  
+                              .      .            ?{{{[|      j'I `' kifZumCj{~ .OmXJJJ0Zmqo, vxrfr                 .  .    ..  ... .... ...... ..  .... .                          
+                        . . .      `l~~++~+1nxx   l]][|m       J'. ' fj]XvLCf1I)mqdpLU****Oo  -oaak      .nxUCYXcYMB+    ..  ..   ... ....    .     .     .                   .     
+                          ...    w<~~~~~~++++-#Y  j?]]|m       o-  .`iu}-?ju)rLOmwpZLLMM##Z(  ?**ok    ^>ZOQLCUYXzzzz!               . .  ..               .                        
+                         ..     w~<<<~c^  'YI+oX  --?]|Z      u:   ^)l}i1({rfXwbdwz?lzMWWML   }M#*b   .rpwZ0u-   }x}z;     .                                                        
+                         .. .   ;>>><L(  .    ]   !???|C Z{(tXwz  .!_i~!|?YqpmqZ.    vW&WW0   1M##d   vkdqmo       .:      +QUdhkWBz.   .    Uck8&M%@k    .  .      .               
+                           ..   '<>>>~Qnn.        !?-?}{}{1)(|tr%'.'.^~QZwdbkhao*8.  OMWW&L.  1M#*p   >kdwZ0Mk~    .     C[XvvcczzzXX@    cqv00Zmwqpdkhl     .                   .  
+                           .     I><>>>><<rOzu    <---?}+:'^)(||uX  mXUCOn   .uo*#%  dWWWWU   (M#*d.   +qmOQCJUzcM*     QjunnY   +_zXY8  QxCCLL0Y .')?di                            
+                                  .:i>>>><<<<)Ow  1_--rn    ~))|tO  ucXUWCYzYXLkao*: pMMM#X   )*oop      m1QJUXzcvnn@. n~nnnUunnnrntccz|+wCUUJJ .       .                           
+                             ...    . 'n:><<<~~0^ j__-Xx    f1)(|Z )nuvzUCQOmwqdbkh< Joo*ov   1hhkw    .     (f-vunxx0 JfxxxxnnnuuuvvczUXqzXYUx .                                   
+                           ..   .,    ..  [<<<<h} 1+++Xr    r{1)(C <fxucC.     .     )bkkku   {dpqm              <rrrr:x]rrra      .    xccXzXm       ..     ..                     
+                 .          .   Imnr+     ^i><<f  !+++Y(    j}{{1v .?rrx&O       dr  vwqwqX   {mZOw   1J$X      Zzrjff  (rrjrw      _cZ  1xcccU.    }cc|..  .                    .  
+                          .  .  :!!ii11-<i>>>>Z   :+~+X1    t[}{1v   {fjxnbOYnjJUUt  COO00$b  _QLCJ@M tvuxrrdkOxfffff,.  `jjrrn@%#okXuO   ^nvccXQ@B%MzX1                            
+                              . `!!!!!!iiii>-.   .`+++z{    {[[}{j   .'|rrrrxuvcc|f   ;LCCCp  .YUYXzQ `;xnrjjjjfft|L      'Irrrrrrrxxrn    .^uvvvcvvczzj.  .                        
+                                    . ...   .       .              .   ..  .''         .   . .           .   `'     .          'II.        .    'lI        ..   .                   
+                                     .                        .                 .         .                  .                          .   .          .                            
+               .                .. ..,,'......    . .  , ...` .. `     .  ....... .   .. ...     ...'   .. .'''''. .      ..   .`^`. ..   . ....`^,`                 .      .       
+                               .^,^:::::::::;I^.  >IllO? .  _i<<(U   ':!_[}{11){?-~. ^+1(|(O' !<}))|X !:>_[[[[[]]}[!'   .``;<?[}{111[-i .'^``i[)tffft}~;...                         
+                               .:::;lllI:::;I[{I. ,ll!Z(.   !><<X0'.^!?[[1){}[{1|Yt  >fjfrYm`,+ff|jzX`{{))|||)}][[[}}l.^>l+[}1jucnj|(|X.^>l~)|trcXYzcnu[                .. u        
+                               ^!<~>;^````I;;IjtI.>Il>dx'. .<<<>YQ`i??]{Ju>Ilii!>vx^`ifrrQZ~.:]jftq(l -1nt?>I:^,1{[]}r!<)?[}uQf_!IIi+|J'i+?|tfXJf_+-}rUj                 uf << . ^  
+          ..                   '!l,...'`^i+:;lr0>;(ll<mv`  '-+><cC!)1?]zh(+~<~<<<+{+l]rnrOO_`!{rjxpt' I~l`.'`^^It(]]}J|)1[}|Ov?+<lI!li-i1f1||uX~`    :+~                        .   
+    .                           ...^:IIIl!;:;+CO~<v~I-pf;  ^]~>+zw>11?]|u|){}[[}{(Lf}xuuuO0|l~fxrnp|' .'`;!<+_+_[}[[fZjn)[[{ur|(){{{{{zffx||fXvI.    '.                             "
+f82 = "     .                  .                       .                       .                                                                    .                                      
+  . ..             ..  .    ..   .    ... .                                .      .... ...................... .           .               . .   ..      .            . ..   ..  ... 
+  ..    .      .... .        .    .. .  ...                                ... . ............... .............                          .      ..     ...  .   . ..    ..   ..  ... 
+  ..   .    .  .   ..        .        .... .             ..          .            .. . ....  ....... ..............        .                    ....       ...          . .       . 
+      .          ...   .           . .      . .  . ...                ...     . . .                    ........  ... ...                       . ..   ..   .     . ..   .   ..      
+   .   ..                  ...   ..            ... .. .          .  ...    .   . ^?jX0ZwqpbktkhooooooI    .  . .. ......... ..     ... . .     .    ...  . .    ..   .... . .       
+  .   . .   ... .  . . ...    ....           .          .     ..    ... .    ;;l?)rzJQZZZqph'daao*******##h            ........          .       .    ..                 .      .   
+ . .   . . .   .  .      .  .      .              .  .        .    ..     ,:'.![vYXCJJQ0Z0aa_p*###############M      .     .  .                  ..     .    .  .         .. .      
+                            ..      ...          .   ..     .. ....     {~l'I-fucUCQCQQL0Zbhkq*#**####***o*MMWWWWW  ...... . ...                            .   .       .           
+                                                     .          .      (}, '<{vcYJJYUXXYQ0do'do*###*##*MMMWWWW&&&&&&a   .. .   ..                                    .    .         
+            .                                      .     ......      UU|l. :?tuzzXcncccCzp&zbaho*#M**o*#MWWW&&&a&8888*}    ... . ...                                    .  .        
+                . .                                 . . .  ..       akd|   '!_(nu(}|vLQwmq^Lkkhbh*ooo*#MMWWWW8%%%8%%%88B   .    ..  .                                   .     .     
+                                                            .      ^M*O:    .'i-!>x0wqmwwh`Jmdkkdqkbdpk*MW8&&&8%%%%%%%M8%        ...                    .               . ..      . 
+                       .           . . .               .   .   .   W#Ci       . )CUxr}xXQLb{0ppqpqqqmppa*#MWW&%%%B%%%%o88M   ....  .                                      .       . 
+                                                          ..      CaL,  .'`.   ZC[?!~i!-xcw.c0mqdpwmmdhbhho*MW&88%%%%W8%%%    .    .. .                                 . .  .     .
+                ..          .   .                      .         }m#n   ^>'   MJ?>:..`I!-n}CJ,Ydwbwmdbakqhdka*M&88%%%%%%%%&   . ... ...                                 .           
+       ...                .            .          ..  . ..       @%}I.np.`-  vq(^'''..';-<~J.QbZOZwdhYCxhkkkho*oM&&&MW8%%%% .   .. ....                 .            .    .    . .  
+         . .                                          ..         >B       ! !+#|^^'.... ,1Z)juzL0OOUpbbbooX_o***#W*h#o&&%%%k.   ..  ...                .                     .   .. 
+               .        .                             .        .  Z;        ` >#^.'''''..'';>[(nOzJmQwddZko#Wd**fnM#M*W&88%%   ... ....                                   .  .      
+            .    .                               ..  ... .       '  .          .LZ'`' '.'i`'})x}fnvXL0bkdooMWW&&)OWWWWMW&&88.  ...  ...                                 .           
+           .                                          ....      .             .  )M. ..'''.'l-1(|_?XZmmCwb#MW&88WwZM&WWWW&88  .. .  ...                                 .          .
+                                                .. .   .    .  !              .`.]h''''''''..`+(;,1YOZL0bhqqboMWW#*kWWWWWW&%   ...  .. .                                  .   . . ..
+                                                .     .   ..   ?f            >1!'a' . ''''''...`:'+XnCZmkbOQYOh***ob#Wo#MW&:   ..  ...            ..                    .           
+                                                       ...    .  I         .[v{I^Y8. .....''`.'..^!v|xJc0bbwUZd**oh)*MWWWW&    .    .                                   . .         
+                                                    .... .    . : <     .;   lzr(+rc(CLqaWMMo?^,Jh##MX>^`Yww}bao#*oh#WWWMM.  .     ..                                  .  .         
+                                                    .         .  .     .  ;   jYvr}|nvJpYj]|Xwk,''...}!` XpCLk***kbb*MWWW0   .      .                                               
+                                                  ...    .        ..      .;. .':}-;)  . ....._I      Y,;qowbCZa0h*oo***M    .  ..                                                  
+                           .           ..         .......      .       .  . }YCtf!' `>.'..^jv'jjI.`!  fXwoMM*kXdoohkbqbO  ..   .. .                                       .     .  .
+                                                    ...        1 .  .      `(ccYx[.`tcbo . >>1b'! .....nbwbbLL']t>]z|!         ...                                    .            .
+                                   .                . .    .  f1q   ..   ^ '''',_  'mp0ZQQLJ}z#   x..  !Zh    .'. .    .  ...  ..                                           .       
+                                                  . . .       a,.  ,? <'^}`,' .^`.. CqwOLYOvnh       ``            . .   .                                             .            
+                                          .  .. .  ...       q.w. 'j. c+'v ;l  , ..>mOwwOqQXZ    . .    .         .... .   . ..                                             .       
+           .           ..         .   .  .         .         b.'. <z,IU:XZ <] .'':'ZOJQOqZ0OY         .            .. . . ..                                                        
+                                 .          .         . .    `'_ `m.a.:p^Yw.~.   :wOcCUcqmdo                    ..  ...     .                                                       
+                                 .   .        .   ?{11{t      w]. ^ cx+qXUwL}!'.vdLJCXC0ZZq*  cnxjx    .            .  .    .   ... .... .....  .. ..... .                          
+                        . . .     .`l~~~+~+{xxn   <]]]1m      .'c.  .nIrvvC|1l;UmdwQCJ****O*  ?ooak  .   .rxJCUXzYMB+    ..  .    ........    .     .     ..                  .     
+                          ...    Y<~~~~~~++++-MY  c?]]{Z       *t..'`(j}[}xf|XOmZmZmrCMM##O.  ]#*ok    :>mZ0QCJUXXzXz^                                     .                        
+                         ..     J~<<<<z^  .XI+oX  }-??}O      @  . {_!!!>i)[nUwdmC[>'XMWWWL   1M##b   `ndqmOv>   [x[z^. .                          .                                
+                         .. .   ^>>><mc  .    _   <???{C m{(|cwX. `>:I<I)]JqdwpQ.    cWWWWQ   )WM#b   chbpm*       .:      [LUbkdMBz    .   'Uv*8W#8@k    .  .      .               
+                           ..  .^<>>>>Lnu'        <--?]}}{1)((|jB`.. `~LOmqdbkhoo%.  OMWW&J   )M##p   <hbqmO#h_    . .   J}XvvcczzXzX@    LpzQ0Omwqpdbk`     .                   .  
+                                 ,>>>>>>><(Ozc    ----?[_,.^)((|xX  0XYJQn   .fa**B  dWWWWY   (M#*d    +pwZ0LCJXzM#     QxunnY   _+zXYB  Q(CCLL0X .')?d^                            
+                                  .,i>>>><<<<_dp  j+--)u    >1)(|w .nvzYWJzczzYkao*; qMMM#z   (#*od   .  m{QCUYXcvuu@ .z~nnnLnnnxrrrczz<|qJUUUY .   .                               
+                             ...    . .z,>><<<<w! z+_-xx    {{))|w [xnvzYJL0Zwqpdkh< Joooou   )hhkw    .     [x_vuunxZ UrxxxxnnuuuuuvcznX0XXYY} .                                   
+                            .   .I    .   )<<<<a1 f+__xr    ){1)(0 lfrncO.           )bbbku   1dpqw   .         .<rrrr`x}rrra      .    vrczXXC              ..                     
+                 .          ..  ,Ovr{     :i>>>j  >+++n)    )}{{1X .+rrx#0       qr  vwqwqX   1wZOq   (J$Y      0Yrrjf  )rrrrZ      1zb  1ucccC     rzu< .  ..                   .  
+                          . .   ^!!i![{->i>>>>Z   ;~++n1    1[}}1z   ]fjxnqOYujJUUf  COO00@a. _QLCC@& rcunxrwdQrjffff'.  `jrrrnB%MokvnO   ^nvccXLBB%aXX<                            
+                              . 'l!!!!!iiii>-.   .^~++x}    [[[}{x   .'1rrrrxuvcc)t.  :CCCCp  .YUUXzL ';xnxrrrjfff(z      .Irrrrrrrxxxn    .^uvvvvvvccz}.  ..                       
+                                    . ...   .             .        .   ..  .'.         .     .               '.           .    .,,      .       .:^       ...   .                   
+                                                                                          .                  .                          .   .                        .              
+               .                    '::`'.....    ` . .: . .^... `     .  .........   .....'     ...'   ....'''`'. .    . ..  ..`,^. .. . . ...'`,,^                        .  .    
+                               .,,^:::::::::;l^.  <lllC[  . <i<<{C.  ';!-[}{1)){]?_. ,+1|||Z'.!<}))tX !;<-[}}}[[]}}!'   .``I~?}{{111[?>..',`^<}(tffft}~:...                         
+                .              .I::IlllI;::;I](l' ,lIlOt'   l>><nO`',!?[[1){[[}1|Xj  itjjrUZ`^-ff|jYX`{{))|||)}][[[}}l.^>l+[}1rvcnj|(|X':>l+)|txzYYXcnu?                .. u        
+                               `>~~>;^```'I;;IjrI.>Iliqu'. .<<>>zQ`>]?]{Cv>I!i!livn^`!frrQZ<':[rffqfI ?)n|->I,`:){[]}r!~)?[}vQ|~!II!+tU'>+]||fYUt_+_}rU|                 uf << . ^. 
+          ..                   .ll,...'`,>+::Ijm~;)Il<Zv`  '-+><vL>(1-?ch(+~<~<>>~{~I]rnxOO~ !1xjxpt' I<I`.'`^^It)][{Jt(1[}|On?_<!l!l>?>1f)||vX<`.  .:~>                        .   
+    .                           ...^:IIIl!;:;+C0~<c~I+pxI .`]~>~np>}1?]|u(1{}}}{1(Qf?xuuuOL?'<fxrup|' .'^;!~__+_[}[}jZfn)[[1nr|()1{{}1Xtjx||tXuI.   .'.                            ."
+f83 = "     .                                                                  .                                                                    .                                      
+  . ..                .      .   . . .... .                                ..    ..... ........................           .               . .   ..      .               .  ...  ... 
+  ..    .      .... .        .   .      ...                                ...   . ........ ..................                          .      ..     ..  ..   . .     ..  ...  ..  
+  ..   .    .  .  ...                    . .             ..          .            .. . . .   ... ... ..............        .                    ...        ...          . ..        
+                  ..   .     .    .  .    .   .  . ..                 ...  .. . . .                   .... ....  ... .....                      . .      . .      . .   ..  ..      
+  .    .. .                 ..   ..          .   ....            .  ..  .....  . `-jzQZmwpbkXbaooooo*!    .    .. ............     ...   .          ...  . .   .     ..             
+  ..  . .   ... .  . . ...       .          .       .   .     ..  ........   :;i+)|XCQOOOqdo0haoooo*****##*            ........           . ..         .  .              . .    .   
+ . .   .   .   .  .      .  .                     .           . . . .     `:'.<1vvXYXXL0Ldb*xa*############M##M      .     .  .       .          ..     .   ..            .. .      
+                            ..      ...          ..   .      . ....     [_!'I?|xvYJUJJCCCqd*~b##o*#***o*oo#MMWWWWM'   .... .  ..                                .       .           
+           .                                         .        .        t-` ^<)uuXXXcuznJUmk#0a**##****####WWW&&&&&&&%   .. .   ..                                         . .       
+            .                                      ..      ....      xL1^ .I?|xjvur?vxzQ0aIdkkko*##*o*o*MMWWW&&&88888pn     .. . ...                                       .        
+                . .                                 . . .   .       OkZ~   `l?|r(>]tXtLOO'vwbkbbaohha*#MMWMWW&8%%88%%88B   ... ...  .                                         .     
+                                                            .       M*C    .',ll;}XOZOOZq.nOqpbpmddqqpo#MW&W&8%%%%%%%%8&&        ...                    .               .         . 
+                       .           . . .               .   .   .   Whv,        `zCn|{}|Lzo'QOwwwwmwZmpko*###M&%%%BB%%8888B   ....  .                                      .       . 
+                                                          ..      v*n.   ..   nQ1{;!!I<tnC'fCLmmqmZ0pkdbbha*#W888%%B%08%%8:        .. .                                 . .  .     .
+                ..          .   .                      .         +bW~  .;.   kp}!'`..;,ij-x#.xwqqZOwqhdqbpdhh#M&8%%%%Y%%%%&   . ... ...                                             
+       ...                .                           . .....    %B<:`W- !  ^#f,..''..'<i;x)cpjLQCmo|Q`phwkbhoo*WW8&n&8%%%8!..  .. ....                 .                        .  
+         .                             .              ..         O#      : <^ox;''... ''lX`)jrYJQLQQpdphao`w**o#MW(oMoW&8%%B    ..  ...                                      .      
+               .        .                             .        .  >I       ...b: ..'`'' `'',+]rJzUQ0Oqqqdh*M?o*u*(M##MW&8%%8    .. ....                                .            
+            .    .           .                   ..    ...       _           ^ (%..''..':''<[1}1)rfXXpbpka*MMM8%n*WWWMMWW&8%   ...  ...                                 .           
+                                                 ..   . ..        .          I  I#   .''''.'>]1[?]fOO0CQdo*MW&&&W]wMWMWWWW88. .. .. ...                                            .
+                                               ... .   .    . Y       . .     ..;*'...''''...;[i'IcU0QJmdpZbb*MWM#ao&WWWWW&8   ...  .. .                                . .     . ..
+                                                .     .         .           '[I Z`  .''''''...'^.`n~JJObpwLXxpa**odbMWdMWW&o  ...  ...            ..                                
+                                                   ... ...       '   '     ;11>')o  ......''..'..'|(jvrzwbqCQOk*oand*WW&WW&.. .     .                                   . .         
+                                       .         .  ....        i      .+.  'rf1<|n)UJQhMMWWj:`fpo*ML_I'-ZqJ[kk**oohMWWWMM?. .. .  ..                                  .        .   
+                                                   ..                    ',:.-Cxt11tjzmLr]}uQdX.`...|`l Im0Umh##otbk*WWWWM  ..      .                                               
+                                                  ...  ... .      .       !'  .`_+I-. ......  o    .  ?.0kpbXQq*haaoo***#.      ..  .                                               
+                             .         ..         ... ..   . . ' .    ..   IYQu)<' 'I .'. `->>k``.|  .~0d#M#hw?Cahkddqbb  ..    . ..                                      .     .  .
+                                                    ...   .      ;         <czXz{' ?)mkl .:l<UQ !' '. ?LZkwmL?,?[~[zf~     .   . .                                    . .          .
+                                                    .      .. *[   ...  ' .``'^<.. XZOOLCQn?}q  . .-  .Xkx   ....      .  ...  ..                                           .       
+                                             ..   ..  .    . ;fc   <>'l !.'' .`i   UdwJXzCJ}Q,      .'.              .   .. .                                          .            
+                                          .  .. .  .   .     '  . >c ;1.{! l. .`  .00QJCOZxXd    ..               . .  .   . ..                                             .       
+           .           ..        ..   .  ..     .  ...      !@... ?n.1]1z.^-   ^',X0CJJQZYYh          .  ...        . ..   ..                                                       
+                                                      . .    ~?  n fo nZ^Z..:    CqXcCnmmmbZ                    .   ...     .                                                       
+                                 .  ..        .   ]1()1j      w. .' b>{muCJ}I' lwZxznYLQOOd   vnrjn.                .  .  ......... .... . ... .   ..... .                          
+                        .   ...   .'l~~~+~+}xxu   ?]]]}O .    ,v    ?1<jtzu[i.)0ZmZJzJ#**#m   [ooah      'jxJCJYzY#B+     .. ...  ........   ...    . .   ..                  .     
+                          ...    f<~~~~~~++++-WX  C???}O   .   ot. ',|-i!)|]fC0Cm0QcXJMM##C   }#**h    l<mZOQCJUYXzXz.               . ....                .                        
+                          .     f~<<<<z,   vl+*X  |-??[0      W  <._:i`_?+[)X0qm0f!^.zMWWWL   )M##k   ^vdqwZcl   ?x[X.. .                          .                                
+                         .. ..  :>>><dJ  .    <   ??-?[C.w{(|vpz. ';^^,:}]JqdwbL.    cWWWWC   (WM#b.  Xhbpw#       .^      tLUbdq#Bz    .   ;JuM&M*8$k       .      .               
+                           ..  .I<>>>>Qnu;        ?--??}}{1)((|j@,.  `_L0Zwpdbhoo%'  0WWWWJ   (MM#p   +abqwO*a?      .   U}zvvcczzXzXB    ZpYQ0OZmwqpbk.     .                   .  
+                                 `>>>>>>><}OXz    }--_?[_^.^)((|jY  LXXUCr    1a**B  qWWWWX   |M#*d    ~pwmOQCJYz*M     0nunuY   -~zXY@  L]JCCLQx  ')?d.                            
+                          .       .,i>>>><<<<>ob  c+--}v    !{)(|q .rvcXWJvnvuvbho*l qMMM#z   |#*od      w[0CJUXzcvu@ .L+nnnOnnxxrfnczz,XdUYUUz     .   .         .                 
+                             . .    .  c^><<<<<b_ 0+__|r    _{)1(p _rxucXUCQOmwqdbh~ Joooou   (ahkq    .     ~u_cvunxp Jnxxxxxnuuuuuvcz[zzXXXY!                                     
+                             . ..!.   .   )<<<<o) c+__jr    ?}1)(O :frxuq.           )bbbku   )dpqq   .         '~xrrr'x)rrxh.        . z)czzXj         .    ..                     
+                            .. .^Lzrj     !i>>>x. ++++|(    ]}{{1Y  <jjxbQ       mr  cwwwqX   )wZOp   fJ$Y      LUrrjr  [rrjrL      rz*  )ccccO    .zzn: .  ..                   .  
+                          . .   '!!i!-[_>i>>>>m   l~++t1    ?[}}{Y.  _ffjxZOUvxJUUf  JOO00@#. _QLCC@8 ncvnxjQwCrjjfff .  ^jrrrn%8Moknn0   `uvccXLBB8pXz;    ..                      
+                        .     . .l!!!!!iiii>_.   .:~++(}    ?[[}}v    .[rjrrxnvcc1|   ^CCCCp  .XUUYzC .:nnxrrrjjff(|      .Irrrrrrrxxrn    .^nvvvvvvccc>.   .                       
+                                    .  ..   .    .                ..   ..   ..         .     .               .                  `'               '.       . .                       
+                                           .                                              .                                                                          .              
+               .                ..  '::`'.....    :....;    ^... ,     ............   .....'     ..'`   ....'`'``. .    . ..  .'^,^. .. . .  ..'^::^   .                    .  ..   
+                               .,,^:::::::::;!^.  <lllX1 .. i!>>]Q.  `;!-[}{11){]?-. :_)|||Z'.i~1((fz i;<?[}}}[[]}}i'   .``I~]}{{111[?> .',`^~}(tffft}~:...                         
+                               .I::Ill!I;::;I-t!' ,IIlLr'   l>><fO`.,!-]]1){[][1(cj  <fjjrJO`^?jf|rJz`{{((|||)}][[[}}l.,<l_[})xvcnj|(tc.:>l_)|txzYYXcnv_                .. u        
+              .                .~~~>;^`''';;;Ijnl.<Ilimv'. .><>>vO`>]-]{Lc>lii!l!ux`'!jrrQO<':[rftqxI ?(n(->I,`:){[]}x!+)][{cQ|~l;I!+fY`<+](|fUY(~~+[rJ}                 uf << . ^  
+          ..                   .I!,...'`,>+::I|w[,)ll~Zc^  '_+><vO<t)-?ub(++~~>!!>}<I]rnxZLi.!1xjxp|' :>;'.'`^^lt([[{Ut({]}|0r?_<!l!l>_~1|1||cz!'.  .:<l                        .   
+    .                           ...^:IIIl!;:;_CO~!n~I~Ovl .`]~><cd<}1-]|n(1{}}}{1|0f_ruuuOC>.<jxrup(. .'^;i+_-+-[}[}rO(n)[[1nj|()11{}1X|fx(|fXnI.   .'.                             "
+f84 = "     .                             . .          .                       .                                         .           .                                                     
+  ....            ... ....       . . . .  .                             .    . ....... ..................... .                              .       . ....             ..  ... .... 
+  ..    .  .    .. ..   ..      ..    . .                                  ..  ......  .    .................                                   .    .    ...  . .     ..    .  . . 
+  ..        .  .  ....  .     .... .  .. ..              .           .          . ..      .. ...... ................                            ..         .. .     .   . ..        
+                 ..... .        . .              .   .       .        . .     . ..                    ....................                            .   .. .  . .  .    . .    .  
+  .    ..      .             .   .           .   ...            ...     ...... . '_fzLZZmqdkwkaooooo*<        ...    .........  .   ..    . . ..    ... .. .         ...  .  .      
+   .        ...    . . ....    ..  .    .               .    .    ..    ...  ^Ii~{|zJL00Zmkjqkaooooo*o***##.     .     ........        .  .                              .      .   
+ . .   .   .   .           .  ....                            .  .  ...   ';`'<(unXcuYCQCkh<qo*#***#****###M##M^           . ...      .           .        ..              .        
+                        .   .   ..  ...           .        .... .. .    ?-l'I?(jnzYXYJXUQqh:q**o*****oooh*#MMWWWWWl    ... .....                              ...       ..          
+           .        .                                .          .  .   t<' ,_tjxcujnvxXYLqh[boo**oo***#**MWWW&&&&&&&B  ... . .. .                                  .      .   .     
+                              ..                          . . .      |L]' 'l?}rrrfjftvzZq.Odbbao**ooooo#MMWWW&d88888&mY    ... ...                                         .        
+                . .                                 .       .       |hJ:   `l?|(+~1rXUO08t0dbddbakkhoo##MMMW&&888%%%8B8B    .. ......                                   .         . 
+                                                        .           Maj    ..;:,l(JQQOX00-JQwdqmqqqwwb**MWWWW8%%%%%%%88&W    .    ..                                    .          .
+                       . .         . . .                   .   .   &kj'        |Qz|{~|vjb.XCmZOZZO0Lwdao*#*#W8%%BBB%8W888%   ..    ..                                             . 
+                                                      .   .       )o{.       'Lt],;:^<+fuY:cUOOwO0Qqdpbbhko*MW&8%%%%%%%%%8[   .    .. .                                 . .         
+                 .          ...                    .   .  .      ;hMl  ..   _oj~;`..'`,+~[b'{QdZZ0Omdpdwpqdb*MM&8%%%%%%%%8&      .   .                                              
+                        . ..           .          ..  .  ....    %W1`L&.''  an~''''...;;'+U!0nLYCZq1Q?ZkQbdbooaMW&Wo#88%%%%X..  .   ....                                       .    
+         .                                            ..         8Y      `:.Lz<..''....`}.[})nXUJJJqwmph*}1*ooo*Mpw#&M&8%%%8   ...   ...                                .    .      
+               .        .                             .  .     . ';'       ^ Cl..'''''.`. '!<(fcvXO0mqqOda*xk*bvt##M*W&88%88    ..   ...                               ..           
+          . .    .                               ..    .    .  . f . .      j lM.'''.''`'.`<}-[]((vXOZppah#M#&&[JWWWWMWWW&88     ..  ..                                 .           
+           .            .                         .   .   .                 '.  h'....`''..,>_~-i[cQLUJqk*#MW&WMqL*&WWWW&&88     ..  ..                                   .         
+                                                .  .   .....  L               ..Z:''''''''..'ii'`)vCQvCpbOmdoMWW#ocMWWWWWW88    .... . .                                . .     . . 
+                                                .     . ..      .  ..       >! ?B ...'''''....''.}lnXLObpLYr0kooooJaMWhMWW&&   . . ... .           .                      .         
+                                                    . ..   .    `.      . .]|+.!o........'.'.....!|?)zjCdw0uQqoohbLkhMW&&&&.   . .. ..                                  . .         
+                                       ..        . .   ...    . <    '.II   }(}<_j)vUCp**WWJl'!Qao#hf;'`UZQ<dkho***oMWWWMMd   .    ..                                  .            
+                                                              .   [      c? 'zx(_]+[zCQt?-(Xwh...'. _I. nwczbo**aZqh*WWWMM    .     .                                               
+                                                   ...  .         j      ;(   .~+,`- ''..... t.   .  x lmkmqXQkowoaoh***#     .  . ..                                               
+                           .                        .. .      .. l   ..    xJXj[;. ,] .'...] j:'.`'. _zQo#M*bn}qbhbpppbd  .  .  . ..                                      .     .  .
+                        .                            .  .   .    .        `jXvzj+ ,[Xp0u `<:1k..   '. |ZdpbLL'~t<<}zj_.  . ..  .  .                                   . .          .
+                                                     .      ..o^        :.```',~' `0wCCzCnn;zU.... .  >mh.   ..'.          ..  .                                                    
+                                            ..    .....      C'.. `- I..l .  .:; .'JJCQXXJ(ta       ''  .'..                .                                          .            
+                                          .....  .   .   .   b.  .{` }  ] ... >,..1LULLJmYtw     .               .  . ..   ....                                             .       
+           .              .       .             .  . .      0j0' ^|`,r'jU ,, ..''.LLYUQOQv0]      .  . . . .           . ....                                                       
+                                     ..  .     .      . .    ,   L q`'C.)U '    <mU|crrZQwo                      .   ..     .                                                       
+                             .   .   .        .   }(|()r .    OX ` -C!UXnCX!`  jZvnx(zLLQ0#  .znxrv.                .     . . ..    ... ..   .. ...   .                             
+                        .   ...   ..l~~~+++[xxu   )]]]]0 .    )>.   (;)f)z[~``X0m0zv+C***#m   1*ooa     .'|xJCJYXY#B+        ...  . .. .      .           ..                  .     
+                          ....   ?><~~~~~++++-&X  Z???]0   .. )q. ..~}<i_1-_uL0L0CCf)C####Q   }#**a    >~wmO0LCJYXXXz                .   ..                ..                       
+                          ..    +~<<<>X,   rl_*z  x--?]Q.    .C `ul>,,::,+itzOmQv<:''YMMWML   |MM#h   :zbqwZz:   _u[X .             .                                               
+                         .. .   !>>><oQ     . l   1?--]C.q1)(upz  ^``I^,}[CqdwkL'    zWWWWL   tWWMk   Xhkdq#       .'      nQJbpw*BX   .    ~JuMW#*W@k        .     .               
+                           ..  .!><>i>Lnu!        {--?-[}{{1)(|j@I.  `_CQOmqpbkhoB.  OMWW&J   tWM#b   -abpwZ*o[          z}zvvcczzXzXB .  mwCQQ0Zmmqqdb                             
+                         ..    ..'>>>>>>><]0JY    (-__?[_^ ^1)((fY  JzzYCx   .]ho*@  pWWMWX   tM##b    ~dqmO0LCUXoW     0vuuuY   -<zXX@  C_JCCLJ}  ')?d                             
+                              .    ,!>>>><<<<iWk  U+__]c  . I{1)|d .fuvX&Yxrxxxbho*i wM###z   t#*ob      m]0QCUYXcvv@  O?xnnquxxxrtuczc.OdUYYUc     .   .              .            
+                               .       r,i><<<~o1 p___{r    >{11)b.>rxnvzYCLOZwqpbh~ Joooou   |ahkq    .     !c+cvunxb JuxxxxxnuuuuvvcclzfXXXY^                                     
+                            . . .<.  ..   ]<<<<*( J++_{j    <}{1)m ^tjxuk.           )bbkbu   (dppp   `         ^~xxrr.x|rrxh.        . c[czzz?   .           .                     
+                             . .^YJrn     <i>>>n' ?+++{( .  ~}{{{J .ifjrmQ.      0r  cwwwwz   (wmZb   rC$U     'CUrrjx  -rrrrU      vcM .|zcvcw     Xcu'                         .  
+                                '!!ii~?+>i>>>>m.  i~++{)    ~][}{J.  <tfjxQZUcnUYUf  XOO00BW. +QLLL$% ucvunrJZXrjjfjf .  ^jrrrx%8ModxnQ   'uvvcXCBB&Ozz`    ..                      
+                                .Ii!!i!iiii>~.    I~++[} .  <][}}c   .._rjrrrnuvc{|   ^CCCCd  .zUUYXJ  :xuxrrrrjjf|_      .;rrrrrrrxxjv    .^nvvvvvvccv^.                           
+                               .    .   ..           .    .       ..    .   ..                        .           ...    ..     .    .       ..  .      . ..                        
+                                                             .                                                             .                                         .              
+      .        .                   .'::`'.....    I....I.. .,... :    ....'''.... .     ...'     ..'`   ...''````' .      .. ..'^:^.... . .....',;;,.  .                    . ...   
+                               .,,,:::::::::;!,.  >Illc(    li>>?O.  `;!-[}{11)1[]?. :-)|||m'.>~1|(rn >;~]}}}}}[[{}i'   '``I~]}{{111[?>..`,`:+{(tffft}~^. .                         
+                                I::Ill!l;:::;+fi' ,IIlXx'   l<>>tO`.,i-]]1){]?]{)vj  +trjrCZ`^[jftxLz`{{((|t|){[[[[}}!.:<l-}}(nccnj|(tx.;>!?(||xXUYXcnc~.               .. u        
+                               .<+~>;^`''':;;Ijcl +IliOu`. .i~>>uZ^<]-?{Qc>!i!lI!un`'!jrr00>.;}rjfpn; -|n(_i;,':1{[[{x!+)][{zL(<I:;!~fc`~+[||jJz1<<~]jJ?         .       uf << . ^  
+          ..                    :l^...'`:i+;:I}q)^|!I<mc,  '_+><uZ~t(-?nd1__+~i!!i[>;]rxxZCl !)xrxp('.;>:'''`^,lt)[[{J(t{[}tOf?-<!l!li-~(t)(|cc;'.  .:>;                        . . 
+                                ...^:IlIl!;:;+CO~;f>I~0z! .`]+><vm+}1-?(n({}}}{{1|Of+ruuuZJI <jxrvp(.  '^;>+--_-}}[}nZ)n)}[1xj|()11{}1J)fx||tYnI.   '`.                             "
+f85 = "     .                                          .                       .                                         .           .                                                     
+  ....            ... .. .   .   .   .  . .                             .  ... ....... ..................... .                              .   .      ..  ..          .. .... .... 
+  ..    .  .    ..  .   ..      ..      .                                  ..  ......  ... ........ .........                                   .          .   . .     ..    .  ... 
+  ..        .  .  ....  .     ....    .   .              ..          .          .  . .. ...  ....... ...............                            ...        ....     .   . ..        
+                 ......  .   .    .                . ..     ..        . .    .. ..    .               ....................                             .   .    . . .     . .    .  
+  .    ..      .            ..   ..          .   ...            ... .   ...... . .~tzLOOZpb*qkaoaooo*~       .. .   ..........  .    .        ..    . . .. .     .   .... .         
+   .        ...   .. .. ..      .  .    .                  . .   ....  ....  `Ii<}tzYQL0mwk-bhaaoooo*o***##'     .     ........       ..  .                         .    .      .   
+   .   . . .   .                 .                            . .   ..    .I,`<(jxurvYCYpdonao**********####M#Ml           . ...      .           .        ..  .           .        
+                        .    .  .   ...           .   .    .. . .. .    +?I`!-)|rzvzXzXYmd*Uk*ooooo*oa*ah*#MMWWWWW]    . . .....                              ...       .           
+           .                  .                      .      .   .  .   ti..:?(ffxj(fxjzzZb+mkao*oaooo***#MMMW&W&&&&&B    . . .. .                                  .      .   .     
+                              ..                          ... ..     |J+' '!-[(f)}-|)r|QMjwbdkaooaahaa*##MWWW&&888%8&*C   .... ...                                                  
+                . .                                 .      ..       +kc' ..^<[1+;~1nYLUZ`zpppqdkbkkhho##M##W&&8%%%8%8X8B  ....  .....                                   .           
+                                                        .           Wh~    .':``+rULCXCk`vCmqwZQwwQQpho*MMMM&%%%%B%%%W&&& .  .    ..                                    .          .
+                       . .         . . .                   .       8d|        ;cu1[i((rJl1c0OOOQLQXZObhhooo#W8%%%%%%8C888%   ..    ..                                             . 
+                       .                              .   .       ~h<  .     vX_:`:`,I[|d.fzCQmQQUJZqwpbbho*MW&8%%%%o%%%%8X   .    .. .                                 . .  .      
+                 .          ...                    .   .         `oq`       oJi:'.. .':?!J_,zwLZCCOmpqOqZwbk*#W&8%%%|%%%%8&      .   .                                              
+                        . ..           .          ..  . .....    %h|:%f .  nd}'.''.. .,'^n'X0QzUCOLUC1qqpqqdokoMMWW[W8%%%%88..  .   ....                                       .    
+           .                                          ..         @{     f '+a[...''..''l(~?](czXXuOmZmkbO`bohoo##{hMd&&8%%%8   ...   ...                                .    .      
+               .        .                             . ..     . <]       ! +b .'''''... .^I~)vfxUzQZmJqkoMrho(8jM*#MW&8%%%8    ..     .                               ..           
+            .    .                               ..   ....  .    ]           .q`.'''.''`..;!+>+]}jzUZqmkko**MWk)*WWWMMWWW8%8;  . .   ..                                 .           
+           .            .                         .   ..            .          Q(....'''..';ii<;!uLCJuLZo**MWWMM[QM&MW&W&&%8l.    .  ..                                 .           
+                                                .  .  ......  ) .          '   [[.'''''''...;l' ijJJuvZmOLwbo#WMoMhWWWWWW&88.  . ... . .                                . .     . . 
+                                                      ..  ..   ^           ^I.'#  ...''.'' ...'.,frxYCdwYXjvqhoahpq*WhaMWW&8   . . ... .           .                                
+                                                    . ..  ..    )   1  .  i(<.'qz.........'.... 't~[c(cZwZcULkookYO*MMWWWWW-  .. .   .                                  .           
+                                       ..          .  ....      >l  :^'1.  I)+~,[)fxXmh#*Mq<``cpo**X:`.[0Zz)bq**ohkoWWWWMM&   .     .                                  .            
+                                                    .             '    .v'. (t}iI!~xum1<l}jOk.'.'..|`^ >0XrOk#**JddaMWWWWM    .     .                                               
+                                                   ...  .         `     `X    :i,'~ .''''....q      .^ XdOdxCqowboa***###   . .  . .                                                
+                           . .                     ... .      `. l    .   <UU)!l' ,>...''...>o...!...IYp*#*kq[baahbppdbb. .  .  . .                                       .     .  .
+                        .                           ..  .       1..       <cYnr+'.+]0d' .`:;U- `. .' <UQbmmLv.!f>>tj|?  .   .  .  .                                   . .          .
+                                                     .        &C   .   ' .``'`I'  cCXUUvX)_?d .....' .cb0.   ....              .                                            .       
+                                                   ....      h  . !- : `. ...`;.'.XmOvx|v)<L        `.  '`'.          .     .                                          .            
+                                          .....  .....   .   #k  `t '):>^..   +.I.UYYXcLXtrm     .                ... ..   ....                                             .       
+           .              .                     .  . .      p'^  l| >->(^.;  .''^cYxvnLCcno.      .    . .             .  ...                                                       
+               .            .        ..      ..         .    {` `^,d.IJ x. .    z0rjz1LCZqm                          ..  ....                                                       
+                                ..   .        .   [|||(r .   .h, ' 0]<0xnv<'' lZJ|jn[XJQLOX  .Xuxxc.                .       .... .. ... ..   .. ...   .                             
+                           . ..   . l~~~~~+]xxu   j?]]]Q .    O}   `[l[-((<, ?CQ0Lc(+Q***#O   1**oo  .  .'(xCLCUXY#B+        .         ..     .       .   .                   .     
+                          .....  ii<~~~~~++++-&X  q???]Q   .. &J..  ?!:;~]!{zJJ0CC|r]Q####Q   }##*o    +~wmZOQCJUYXXz .             ..   ..               ..                        
+                          ..    :~<<<>Y:   |!+oz  c-??]Q.     +.f l^`';>li?cJm0X]:''`UMMWML   |MM#h   IYbpwZX^   +v[X .             .                                               
+                         . ..   ->>><M0       ,   |?--]L.q1)(xpz  `'''`.[[LwpwhL^    zWWWWL   tWWMh   YakdpM       .'      cQCbwZhBY        [JvWM*oW@b              .               
+                            .. .!>>>i>Quu~        (--?-[}}{1)((f$l   `_JLOOwqbkho@   OMWW&J   tWM#b   ?okdqZ**}          z1cvvcczzXzX@ .  wOQLQ0OZmwqdb                             
+                         ..    ...>>>>><><-0LY    f--_?[-^ `{))(fU  YczXJx   ._hoo@  dWWMWX   |MM#k    ~dqwZOQCUXa&     OcunuU   ?>zXX@  C+JCCLX~  ')?d                             
+                          .   .  . ,!>>>>><<<i8b  L+_-?z  . :{1)|k .|nvz&Xjfjjtbha*i wM###z   t#**b      Z]OQCJYXzvv@  O}xnndcxxxrtvczc pdUYYYz     .                  .            
+                               .       );!><<<~Mf h___?r    ;{11)h ljrxucXCLQOmwpbh~ Joooou   |ohhd    .     ;X+zcvuna Juxxxxxnuuuuvvcc'c1XXXY.                                     
+                           ....  +.   .   ><<><*( 0++_]j    I}{11q '|jrno            (bbkku   (bdpp   ;     .   :+xxxx rtrrxk.        . c_czzzl               .            .        
+                               .Iu0ru     -i>>>v' ]+++]|  . l}}}{L .lffrCQ       Jr  zwwwwz   (wmZb   nC$J     ^JUrrjn  +rrjrY      zv# .fccvcd     Xzz.                         .  
+                                ^!!!i<-~ii>>>>Z.  <~++])    !][}}C   !|fjxYmJzvYYUf  zOO00%8. +QLLL$& vzcvnxXLzrjjjjf    ^jrrrn%8Wowxu0   'uvvcXJ%BWJzz.                            
+                                .;i!!i!iiii>~.    >~++?}    !][}}X   . <jjjrrxuvc{t   `CCCCd   cJUYXU  ,xunxrrrjjftl      .;xrrrrrrxxjz    .^uvvvvvvccn..                           
+                                    ..   .           .    .       ..    .   .                         .    .      ...    ..          .       ..  .      . ..                        
+                                    .                                                                                      .                                         .              
+      .        .                   .'::`'.....    !....!.  .^... ;    ....'''......     ...`     .''^   ...'`````' .  . . .. ..'^:,'..  . ... .':;;,.                       .  ..   
+                                ,,,:::::::::;i:.  !Il!ut  . I!>>]w.  `;!-[}{1111[[]. :_(|ttm`'~+)||nx >I~]}{{}}[[{}i'   '``I+[}{{111}]i..`,`:_1|tfff|}~`  .                         
+                                ;::Ill!l;::;;<|>` ,IIlvn`.  !>i>|m`.,i-]]1){]-]})vj  _frjrCZ`,}jffnLX`}{((|||){[[[[}}!.:<!-}}|uccnj|(tj.;>!](||nYJYXcnXi.               .. u        
+               .                >~~>;^`''':;;Ifz! -lIiQv^. .i~i>xZ:<]-?{0c>!ilI;lnv'.!frr00> ;}rjfdu: +|n)_!:,':1{[[{xl+1][1XC1<I:;l~fn`++[||fCv}<i<]jJ+         .       uf << . ^  
+   ..     ..                    ,l^..''`:>-;:I-wr`f>I~mz:  '-+><zq<(|--xb)--+>!ll!}>;]rxnmCl l(nrnd)'.I<:''`^^^If)[[{C)f{[}tOf]-<!li!>?<(t)(|zu:'.  .:i;                        . . 
+                                . .^:IIIl!;:;+J0~^|>I<QXi  `?+i<Ym+}1--)x({[}}{{1|Zj~runuZUl <jnxcd).  '^I>+?-_?}}[}vw)n1}[1nj|()))1{1C)jx||tYn;.   '`.                             "
+f86 = "     .                                                                  .                                         .                                                                 
+  ....       .     .. ..    ..   .      . .                                ... ....... ..................... .             .                ..       . ..   ... .      .. .... .. . 
+  ...   .  .    .....   .       .. .  .                                   ...  ......  ...  .. ..............                            .      . ..      ...    .     .. .. .  ..  
+  ..        .     ..    .     .... .  .   .              .                      .  . .. ..   .. ..  ................                           ...         ....    ..   . ..        
+ .               ......      .    .                ...               .  .     . ..                    ....................                    ..       .   .   ..   .  .. .      . .
+  .    ..      .            .    ..    .     . . ..             ...  .   ..... .  >|cC0OZqbnpkaaaoao*_      ...      .........      ..  .       .   . . .. .         ..     ..      
+   .        .     ..   ...  .. .. ..    .                      . ....   .... 'I!<[fzYLCQZq#Zbhhaaoaooo***#M,    ..     .......         .   ....                     .           .   
+   .   .   .  ..  .       ..     .                            . .   .     .lI^_)|rjrnXJXdh?woo*ooo*o****####MMM-     .     . ....   . .          ..               .       ..        
+                                .   ...               .      ..  .      <?;`!_1)jcxcvvvLZa.qooaoooooaaoha##MMMWWWWf    .........                   .            .                   
+           .        .    .    .                                 .      tl..I][|j|1)f|uuJmhvbaa*ohohooo***MMMW&W&&&&&8   .. . ....                                         .         
+                               .                           .. ..     )Xi  `!~[})](-}jvvd^mppphaoahkaha*###MMWw&888%88WL    ... ....                                        .        
+                . .                                 .      ..       ibr.  '^+]~:;-){ucY'jZOqmwdbddbkho##**MW&888%%%88&8B  ...........                                   .           
+                                                        .           &bI    .`''I[vXzzY0.tYQmmOCZOLQOkaa####M&%%%%B%%%&8&& .  .    ..                                    . .        .
+                       . .           . .                   .   .   &q]        1j1-<i+x|o^xJQLQJJCXCOwkhhoho#&8%%%B%%&&888%   ...   ..                                         .     
+                                                      .   .       :w;       :Y-~'`''`-]v']rXCLLCXvOwQwqddha#MWW8%%%%@%%%%8d   .    .. .                                 . .         
+                 .          . .                    .   .  .       MO       xb[l'...' '+:{Z )QCOYYL0dOQmZOpp**#W&88%%%%%%%8&  .       .                                              
+                        . ..                      .   . . ..     %bfu$'    #):..''.. `' _I|q{vvzLof0'0p0wmphhkMMWWb*&8%%%%8B.   ..  ....                                            
+           .                                          ..  .      @>    :'' at^ ..''..'.f i~?frvvxYZ0Oqb*!Xhhba*#jO#WM&&%%%%&   ...   ...                                .           
+               .        .                             . .      . fx      ...h, .'''''.'. .::]x1tzcz00OOqh#^bhxQ~*##oWW&8%%%8; . ..   ...                                .           
+            .    .                               ..    .    .    I .       [ j* .''''''..`:!I!~?[xjZwOpbh*ooMMnQMWWM#MWWW8%8h  . ..  ..                                             
+            .           .                        ..   ..      .     .      X  <M ...''''..';l;:;~XUcuXZho*#MMM#w0oWW#WWWW&%8a    ..  ..                                 .           
+                                                .     . ....  1 ..            'M'.'''''''..'!' ')jXY|OwmXZmh#MMoa(#WWWWWM&8&>   .... . .                                . .     . . 
+                                                      ..   .   u    ..     ^..0>  ...''''..'.'. }IxfXwZOcr]QdooaaxhMMZ#MWW&8   . . ... .           .                                
+                                                    . ..   .   ..   1 ., .!I. (M  . .....''.... !+~|}|CpOznJmaohkbbhWMWWWWMd  ....  ..                                . .           
+                                                 . .  ..        i;  [I1l   -<l'~}>tc0d**#a{,.1Oah*z<, ^YOzipbho*oah*WWWW#MM   .    ..                                . .            
+                                                                 ..    ,qq !f??:;+-tOr+i+fJqf  .' ^:^  nQ(xpohoauqdoMWWWMM    .     .                                               
+                                                  ....  .    .       . .u(   .,^'.>..''''.. f.     .~ >OwZOuCk*Qhhha#*###     .    .                                          .     
+                             .                     . ..    .  f. r        nYx1l`..I?,'.''.' X  ..   ;vYh*#opj^rkhbppwdbk. .     . ..                                      .     .  .
+                        .                           ..  .       u f.     `fXrt]:`:~nmz..-`'[k  ,..'. 1zbqdLC^.+?>~nf)[     ..  .  .                                   .            .
+                                                     .        d| .     , .``'`: .`COzcjz)[`v}l ...'. lmk`   .....          .   .                                                    
+                        .                   .    ...  .      k{  .+^`. ^  . .^`.'`Xvczrcui1b       ''   `^`...      .  ... .                                           .            
+                                          .....  .....       1n  i) I .I ..I ;  '(XnzXuJt{m      ..               ... ..... ...                                       .     .       
+           .              .                .    .    .      n'  .!'i~.-1 .`l .'''YcnvvCJ|Q?           .            ..  . . ..                                                       
+                                 .   ..                 .    !] }.ut'(,'t      !Qu?r)|QY0o     .        ..       .  .     . .     .                                                 
+                              . ..   .            ]|tt|r .   .B . .Z;[X(r1'.. )Jf|){1YCQL0w  .Xvnnz.                .       .....   ......   .. ...   ..                            
+                           ...    . l<~~+++?rnn.  u?]]]O .    wU   ~>l?_(>;..vC0Xj|I-0****O   )**o*     .`)xLQCJYU#@+        .      .  ..     ..          ..                  .     
+                          ....   ,><<~~~~~+++_WX  q???]0   .. $m.. `~:`;-<ItYLJCzz[_iQ####Q   1##*o    -+qwmOQCCUYYYX .             ..  ...               ...                       
+                         ..     .~<<>>U:   1<+hz  X-?-]Q.    -,'q :'''.`I,1jC0X(;`'''UMMWML   tMM#a   !JbpqmY'.  +v}Y               .                                               
+                         ...  . 1>>><%O     . '   f---]0.p1)(jpc  ..'.'.[[CmqwaQ;    zWWWWL   fWWMa   Yahbp#       .'      YOLdmOkBY  .     |JcW#haM@b   .          .               
+                           ...  l>>>i>Lvn?        f----[[}{1)))t$~   '_UCQ0mwdbho@   ZMWW&J   fMW#b   ]okdqm*#1          z)cvvcczzXzX@ . .mCQLQ0OZmwqpd      ..                     
+                          .......'>>>>><>>+0OX    r--_?]?` `})))tC  zccXJr   .<hoo@  dMMWWX   tMM#k    ~bpqmOQCJYh8     mcunuU   ?izXX@  J~JCCLcl  ')?p                             
+                          ..  .  . ;!>>>>><<<>Bd  Q+_-_z    :}1)(a .(nuc&Xt||t(dkho> w####z   f##*b      Q?O0CCUXzcv$  O1nnnhcxunrfcczc dqYYYYz                                     
+                           .  ..       _il><<<~&n h_++_x    ^{{11a :frxucXJCQOmwpdh~ Uoaoon   tohhd    .     :U+zcvun* Cuxxxxnnuuuuvccc c]zXXY                                      
+                           ....  -    .   :<<><*( O+++_r    ^}{{1q  |jrx# .     .    (bbkbu   (bdpd   ~         ;_nxxx jfrxxb.        . v<czcz^               .                     
+                             .  >tZxv  .  {i>>>c` }~++-|    ;[}}}0 .IffjzQ       zr  zwwqqz   |qmmk   vC@C     IUYrrru  ~rrrrz      znh .rccvck.    zz0.                            
+                  .             I!iiii_~ii>>>>O.  +~~+-|    :][[}Q.  ;|fjrzwUzcXYUf  cOO008%. +0QQQ$M zzcvnncJvrrrjjf    ^jrrxx88WoOxu0   'uvvcXY8BMXzX     ..                      
+                            .   .:i!!!!iiii>~.    +~~++{    ;][}[Y   . !jfjjrxnvc1|   `CCCCd   vJJYXU  ,rvnxrrrjjjj^      .;rjrrrrxxxfc    .,uvvvvvvccr .    ..                     
+                                    ..   ..     .    .    .        .    .                             .           ...    ..          .       ..           .                         
+                                                             .                                                                                                                      
+               .       .        ..  '::`'.....    >... i   .^... I    . ..''''.'...     ..'^     .'`:   . .'`^`^`'..      .. .'`,;:'..  .  ....`:II:.  .                    .  .    
+                                ,,,:::::::::I>:.  IIl!xj. . :!>>[w.  `I!-[}}{111[[]. :_(tftZ`'+_)t|vn ~l+[{{{}}[[{}>'   '`^l+[}{{111}]! .`,`;-1|tfff|}+`  ..                        
+                                ;::I!!!l;:::;<t<` ,IIIvn`.  !>i>(m`.,!-?]1)}]-?})vf  +trjxCm^:{jjfuLX`}1(|tf|){[[}}}}!.:<!?}{tuzcnj|)f|.;>![(|tuYJUXcnY;.     .         .. u        
+                                i~~>;^'..':;;I|X! ?lI!Uc:. .>~i>jm:>]-?{Qc>i!I;:Ixv'.!frr00i I{rjjdn: +tn)+l,^';)1[[{xl_1][1YJ}<;,:l~rj`+_}||jCn]>i<?fJ>         .       uf << . ^  
+          ..                    ,l^..''`:>-;:I-wr`f<I<0X;  '?_>>Yd~)(--xb(??+illI!}>:]rxnmCl l(nxnd)'.l<,.'`^,,lf)[[1L1f{[}fOf]?~i!i!<?<|t((|zn:..  .:i:                        . . 
+    .                        .  ...^:IIIl!;:;~YO<`|>I<QY>..`?+i<JZ~[1--1x){[}}}{1(Zf<runuZUl <jnxcd).  .^I<+??-?}}[}cq1v)}[)nr|()))1{1L1jr((fUu;.   '^.                             "
+f87 = "     .                                                                                                            .                                                                 
+  ....       .    ..   .     .   .      . .                                 .. ....... ..................... .             .                ..         ..     ...      ..  ... .. . 
+  ...   .  .    .. ..   .       .. .                                      ...  .........  . ....... .........                            .      . .  ..         ..     ..    .  ..  
+  ..        .  .  ...           ..     .                 .                      .  . ...   . .....  ................                           ....         .      .    . ..        
+                 ......  .   .    .                .        .        .  .    .. ..                    ....................                    ..       . .    ..  . .   . .      .  
+  .    .       .            .    ..    .     . .   .            ...  .   .......  i(uJQQZpd_dkhahoao*-      ...      .........  .   ... .  .....      .  . .          ...   .       
+   .        ...        ...  .. .. ..                      .      ...    .    .lI>?fcYLCQ0d.qbhhaaoaooo***#MI     .     .......         .   ....         .                       .   
+   .   . . .  ..           .  .  .                            . .   .      !i,-{)j|nuYzZqa}koooooo*o*o***##MMMM(     .       .. .   . ..         ..               .        .        
+         ..                     .   ...               .    .. .  ...    l[,`!-])frjnrvvOqkLhoahoohooaahko##MMWWWWWY    ..  .....                   .      .                         
+           .                  .                          .  .  .. .    t; .i+])1{]}))xn0b'qhhoohhahhohoo#MMMWW&&&&&&W   .. .  ...                                  .      .         
+                               .                           .. .      1vI. `!>-[[~_-]xXU?vwqwbkaakkkbho**#MMWW#&88888f&C    ... ....                                        .        
+                . .                                 .      ...      Ip-   .:<~I`l_fxYnb<UZwOmqdqqpbbho**o*MW&&8%%%%8%&8B  ..... .....                                   .         . 
+                                                        .           &Z:    .''.I)xucjvX!xzOZ0JLOQLQwhh**o**W&%%%%B%%8&8&& .  .    ..                   . ..          .  . .         
+                       . .           . .               .   .   .   #q!       ^n(-+:))]m.|xCCYUYUcuCmqbkhkh*MW8%%BB%%c8%%88   ..    ..                                               
+                                                      .   .        U`       ff~..'.^,+)t`|xJJJYcvQm0OZqqbho*MW&8%%%@%%%%88M       .....                                 . .  .      
+                 .          . .                    .  .   .       &J       av;'......`^lp <zOYXcUUZQZQOQZqkooMW&8%%r%%%%%88  .       .                                              
+                        . ..                      ..   ......    8q)8W    Q0> ..'..... :u^L-vjfJZ]c!JqzwZmpkbo##WMfM88%%%%%8..  .   ....                .                           
+           .                                          ..         @I    L  tC! ....'.'.: :I>?fjxrrQLLZpk|ibbkha*#?h#hWW8%%%%8   ...   ...                                .    .      
+               .        .                              ..  .   . fj      + v!  .'''''..  '^i?1}|cXUQQXOdaMCkh)&z##*oWW8%%%%8n   ..  ....                                .           
+            .    .                               ..   ....       ^..  .   : ,o. .''.''...`:,:I~_(fXL0Qdpaoo##x<*MMWMMMWW&8%%%... ..  .                                              
+            .           .                        ..   ..   .  .           ..  h .  .'''...`:^:`!|vcuvQpaao*MMM#~U#WWMWWWW&%8B.   ..  ..                                 .           
+                                                .     .....  ., ..        }  .w;.'''''''...``  >{uY1vOmUJZbo#M*h*bWWMWWWM&8&d . .... . .                                . .     .   
+                                                      . .  .   ;    ..   '.. <8   ..''.'...... I`1fnUwQnr)zqhahkwwoM#d#MMW&&   . . ...                                              
+                                                    . ..   .   ..  j..^. ;~` `a' ........'.... ^<;<|}nO0U(nJdookQfa*MMWWWWW8  ....  ..                                . .           
+                                                 . .  .. .      i  ![^c   !>I':_l|jnZao#MvI':Jdkoo)'. 1UU<vqma*okdoMWWWW#MM   . .  ..                                . .            
+                                                                 '.   >k`..|-<;I;>{zx-II?xOb.. ' ._.  -Ct1Qdo*owbwhoWWWWMM    .     .                                               
+                             .                    ....  .  . .       . ?h    ^`'.< ...'.'...n      `  xwJwfzmaXpahah*o#**     .    .                                          .     
+                             .         .           ... .   .  X .><      !cx?:`. I<.~. .'..;# . '  .,umo*obZ]bkkkpqpwbbk. .     . ..                                      .     .  .
+                        .                               .       z .      lvu{]I. i>Cw:.'`'^X!..^ '' !UXqZZLY -|>!+zf){. .      .  .                                   .             
+                                                     .        X. .     ...'''`'  xYxuvtt_:~b <....' .nbm.    .''...       ..   .                                                    
+                        .                   .    ...  .  .   ab .^+ ^  .   .'^..'jLUf1?t_:L        ''   :;,`.       .                                                  .            
+                                          ....   .....   .  .^.  <  > '. . . { ..nrxvrXr](Z           .             ..  ... ...                                       .     .       
+           .              .                .      .. ..     m   '~.`!'+< .   '..jn1ttXcrja        . . ....          . .. . ..                                                       
+                            .         .       .    .    .    ,' } L..( >`      nY}{r-XcCm#      .                .  . .   . .                                                       
+                              . ..   .            ]tfftx .    t.  ~v,r|}1: . `LU-})_fYLLLcZ . Xvnnz.                .    .. . .. .  ......  ... ...  ....                           
+                           ...    ..l<~~+++-run.  c?]]?Z .    Y^   ~^><_?:' <cYUcj~l-L****O   (**o*      `1nQQCJYY#@+            . ......    ...          .                   .     
+                          .. .   '!<<~~~~~~++_#z  m????O      BO.. I,^^:~`<nzcCxc}}ll0####Q   )##*o    [-qwmOQLCJYYYY .             ..  ...             .  ..                       
+                         ....   .<<<>iJ;.  -_~dc  X-?-]0.    Z^~8 '  ``,,l(cQJu<`. '.UMMWML   tWM#o   >LbdqmJ.   ~c}Y               .                                               
+                         ....   j>><<B0     . .   j---]Z.d1)(fpv  ......][LmqwaOI    cWWWWL   jWWMa   YohbpM       ..      COQpZQk@X  .     nJXM#khM@b   .          .               
+                             .  ,>>>iiCcn}        j---?[[}{1)1)|$]   '_UJQQZwpbhaB   ZMWW&J   fMW#b   ]*kdqm*M)          z)cvvccXzXzX@ . .mc0LQ0OOZmwpd      ..                     
+                         . . ....'>>>>><>>~QmX    r--_-]?` `}1)(|L  uuvzUr    !kao$. pMMWWX   fMM#k    ~bpqmOQLJUk8    .qvuuvY   ?izXXB  U+UJCCn,  ')?q                 .           
+                           .  .  . Ili>>>><<<>@q. C+_-_z  . `}{1(o .1xnv&X|((|1pbho< w####z   j##*b      Q-Z0LCUYzcv$  O|nnn*zuvvxjcczz pmYXYUu                                     
+                           .   .       i+I><<<~%v d++++n    '{{1)o ^fjrnvXUCL0Zwqdk~ Jaaoon   fohhd    .     ^C~zcvun# Lnxxxxnnuunuvccc c?zXXX                                      
+                           .... .?        '<<><*) L+++_x    .}{{1d  |frxM .     .    (bbkbn   |bddd   ?     .   l?nxxx fjrrxd.        . u>czcz'               .                     
+                            ..  _}qxu. .  fi>>>z, }++++f    `[}}}O .ItfjvQ       rr  Xwwwqz   |qwmk   cC@L    .~YXrxrn .>rrrrc      cj0 .nccvvo.   .zzd      ..                     
+                  .             >!ii>i~>ii>>>>0.  _~~++j    ^][[}Z.  :|tjruqJXzXYUf  vO000MB. +0QQQ$o XzcvunuXnrrrjjj    ^jrrxxW%WoJxuC   .uvvcXY8BoczY     ..  .                   
+                             .  .,i!!!!iiii>~.    -~~+~)    ^][}[C     Ifffjjrnvc)|   `CCCCd   uCJUXY  ^jvnxrrrjjjn.      .;rjrrrrxxx|x    .,uvvvvvvcct     ...                     
+                               .    ..   ..     .    .    .        .                                . .           ...    ..                  ...          .                         
+                                                .                                                        .                             ..                                           
+      .        ..              ..   '::`'.....    !... > . .^... l    . ..'`''.''       ..',     .'`I . . .'`^^^^`..      .. .'`:;:'..  . .....`:II;.  .                    .  .    
+                                ,,,:::::::::I<;'  ;Illtn. . :!>>]w.  `I!-[[}{111}}[. ;-|fftZ``--(t|vu ~l_[{{{{}}[{}>'   '`^l_[}{{111}]! .`,`l?)|tfff|}_'  .                         
+                                ;::I!!!l;:::;>f~^ :IIlcu^.  l>>i1m^.,!-?]1)[?-?})uf  +trjxCm,:{rjfvLz'1)||ff|1}[[}[}}!.;<!?}{tvzcnj|)f| I>![(|tvUJUXcuX,.               .. u        
+                                i~~<;^'..'::;I1Xi ?!IlJX:. .<~iifq;i[-?{Qc>il;::;jv'.ifrrO0i I{rjrdf, _fx{~l:^'I)1[[{xl?1][1YY[>:^,l~xt^+-}||rCx?i!<]jJ!                 uf << . ^  
+          ..                    ^l^..''`:>_;:;+qj`t<IiCYl  '+_>icb+)|_-xdf]?~!lI;l[>;[xxnZCl l(nxup)' I>,.'`^,,!f1[[1L)j}[}fOf]?~i!>i~?~ft((|Xx:..  .:!^                        . . 
+    .                        .  ...^:IIIl!;:;~Ym+^|+I>YC> .^-~i<zp-]1--1j)}[}}}{1(Of~xunuOUl <jnxcp).  .,l<+]?-?}}[{zq{c(}[)nr|(())1{1Q1rj((fJx;.   '^.                             "
+f88 = "     .                               .                                                                                                                              ..             .
+  ......     ..   ..    .    .   ..     ...                                 .. .   ... .......................             .                ..         .      ......  ..  ....... . 
+  ..   ..  .    ..  .     .  .   .                                           .. ... . .................... ..   ..                                   .     .. ....  .  ..  ..   ... 
+  ..    .   .  .   .      . . .  ...  .. ..     ..                    .         ......  .. .... .. .................                           .. .         ...    .. . . ...       
+                 ...     .  ..    .      .                    .      . .        .. .                 ...  ......... ..... ..                  ..      ..   ..  .  . .   .   .  ...  
+  . ...                     .    ..      .   .   .         .   .         ...... . I(nULQmpbLdkhaaaha*-      ...     ........        ... .   . ...     .    .       .    . . ..  ..  
+   .    .   .   .... ... .  .  .. ..      .                   ..  .  .  .... .!I>-fuUCCQOktpbhhhaaaoooo***#>            .  ...  .      ..  . .     ...              ..  . ...   .   
+       . . .  ..               ..                             . .          >>,_?))1(nXnppk0aooooooaooo***#*MM#Mx         ..   . .   .            ..        ...  ..         .        
+ .       ..              .  ..  .   ...               .      .. ....    :[^`l+-1()rrttYQb'woohhohaahhabh*##MMWWWWWO    ..   . ..                   .      .      .      . .         
+           .            .                                     .   ..  .(:.'i+?{[_?{[ftzZ*cbhhahkhahoaaao##MMWWW&&&&&W     .    ..                                  .      . .     . 
+                                                          .    .     [r:  'I<~+~]+~?-xp:Omwdbkhkkbhbhooo##MWk&88888&bWJ .  ...  ...                                .. .    .        
+                . .                                 .      ...      ;m~   .;>l`'l-{rju.fQ0Z0Zwqwqqdhaoooa#MW&&8%%%88r88%  .. .   ....                                  .. .       . 
+                                                        ..          &X`    .' '<)vrfnm.(nCQQYzQCYcObhh*oo*#&8%%%%%%%q88&8 .  .    ..                                        .       
+                       . .           . .               .   .       hq:.      _-_<:;~1tIi(XYzzcvvfUYZdpbkka*M&%%%%B%%%%%%88   . .   ..                                               
+                                                          .        x.      'ui;.....liQ.-1nXJvurxULCQZZqbho*MW88%%%W%%%%88%         ...                                 .           
+                 .          . .                    .  .   .    .  W[      jm<^... . .,'|^`(JvJunzC0LcLJLmpaa*MW&8%B8%%%%%88'      . .. .                                     .      
+                        . ..                      .     . . .    Bm|B[    *[..'''.. .  +'jvv|xYYcuz_QO0Q0qbdd#*M#Zh&8%%%%%%8 .  .. ...                                              
+                                                          ...    @!'  l' .#?.....''.. {.:;i{)||}YLYCqqO.Zbdbko*>0*WMW&%%%%%8.   ..   .                               .  .           
+               .        .                              . .. .  . |)       `h  ..''''... .',!1+?j|XUUx0wko!dh}oI*o#o#WW888%%%%   ... .....                               .    .      
+            .    .                               .    . ..       `'  .    , LI .''.''....'^`:I!])jYQYqwhoah#MQOMMMW#MWWW&8%%8  .  . ..                                  .       .   
+           .            .                             ..      .           Q  vq . ..'''.  ```.'?nnx1vJbhaoM##omOhMMMWWWWW&%88   .    ....                               .           
+                                                .    .    .  .. .         .  ;L....''''....^. `[j)({YCJXZZho##op]*WWW&MWW&88@ .....  . ..                                           
+                                                     . .         ..          hI   .......''..  _~[fvZCXf1-Cphbhh(b#MQa#MM&&&^  . . ...  .                                 .         
+                                                    . . .      '   *.`?..:^  CZ ... .........  >:;}~1JZLtjvOhobbbqo#MMWWWWW&    ..   .                                . .           
+                                       ..        . .. . ..      ,  w_]{   i,`.I!][|CdkoMw+`.(mkkox^' ^vCf,wphaahhb*WWWWW#MM   . .. ..                                               
+                                                    ..        .  l.   ,#a !~l^'.^[1U_,`~)Cd..... I^.  jX-rwhkoh1qqh#MWWWMM          .                                              .
+                                                  .     .        I    .0x   .''..i . ..... 1      .` <CL0UrUpapdkkoa**#**`  .. .   ..  .                                       .    
+                             .         .           .          x , L      1x)!'. .l-'<` .'' L . .   .(uboohpt'{hkdpmqwbbk  .   . . ..                                      .        .
+                        .                              .      ` !   .   .]n|+l'.'I)0x.^^'.<h.....'..})dOqQJ<.`|l!-U|r)' .     .   .                                   .   .         
+                                                     ..       q          '.'..   cJrf}f-I.uf .`..'. ;Zb:    ..''..        ..    ..                                                  
+                        .                          .         *! ,;i '   .   ''.. j|rr(|{,]b       .'   .lI;^...   . .       ....                                       .            
+                                          ....    ....      .'   i .` '   . .I .<r{jr(X)~O                         ...  ...  ..                                       .            .
+           .              .          .               ..     M< .'<':'^i  .. ....rf(trvv[UU                     .    ..    ...                                                       
+                              .  .       .    .         .    }  '.U.'+ !      'c|l}_]UrJk               ..       .  .     ...                                                       
+                              . ..   .   .     .  ]ffftx .    f.' x_^j?+>    _Y1}]i-rCCCJv0   YcvvX                 .         .. . . .. . . ... ..    . .                           
+                             ..   . i<<~~++-jun'  v??]]w      v    !^lI~;`  {uYu1]^!fQoo**O   |**o#      :{nQQLCUY*@+       .    .  ..... . . ..         .                    .     
+                             ...  !<<~~~~~~++_bz  Q????Z      Bn^  ;''';I`?nXXuf|_;,<w####Q   |M#**    1]pqwO0LCJUYYJ .    . .      .   .               ... .              .        
+                            .    <<<>iCI...<[~Zc  c-?-]O.    &^0m..  '''.-}XYn],'''' JMMMMC   fMMMo   <OkdpmJ  . >z[J               .                                               
+                             .  x>><<@Q           j---]w.d1))tqn   ... .?}LZwwhw~    cWWWWY   rMWMa   Uohkd#       ..      LO0q0Cb@z  .     YCJW*bk#@d   . .                .       
+                           .    .>>>iiCzn(        f---][[}{111)(@(   '-YUCQZmpdkhB   ZMWW&X   jWW#k   [*hbpmoM(      .   z(cvvccXzXzX@ . .mrLLLQ0OZmwqd      ..                     
+                             . ..`i>>>><>><LwX    j-__-]?` '[1))|0  xuucYr    Ikho$. qMMWWX   jMM#k    <kdqwZ0QCJd8     dvunvc.  ?izXXB  Y-UJCCx'  `)?q     .              .        
+                   .           .   ;Ii>>>><<>>Bw. X++__z  . .}{1)* .{rnv&X(()(}pbho~ w####c   r##*b      L_ZOQCJYXcv@  0jnnuMYczzuxcccz wOYXYYf                                     
+                                       :};>><<<%c Z++++v     }{11* 'fjrxvzUJL0Zmqdk+ Jahoon   foahb          `0~zzcunW Lnxxxnnnnnnuvvcc c?zXXY                                      
+                             .  .]         <<><a) Y++++n    .}}{{d  (fjxW .     .    (dbbbr   tbddb   1     .   >]nnxn.jrrxxp.   .    . x>cczz.            .  .                     
+                ..     .   .... ?_wxn`  . ui>>>z: [+++~r  . .[}}}Z  ltffxO       (x  Xwwwqz   tqwma   YL@L    .}Xcrxrn .irrrrx      vtr 'vccvcM'   ,zza                             
+                            .   ~!iiii<>i>>>>>Q'  +~~++x    '][[[m.  ,(tfjnqCXXzXUf  nO000*@. _0QQQ$k CXcvuuncxrrrjjj    ^jrrxr#8WaXnun.  'uvvcXXW%bczJ     .   .                   
+                                 ^i!!!!iiii>~.    ?~~~~|    '][[[L     :ffffjrnvc()   `CCCCp   xCJUYX  ^fvnxxrrrjjc       .;jjrrrrxxx((    .,nvvvvvvvc| . ..                        
+                                     . . ..          .    .        .                                .             .                          . .                                    
+           .                         .                    .               .                              .         .    .              ..             .                             
+               ..    .         .    `:,`''.....   !... <.  .`... !    ....'``'.''..    ...':     .'`l .   .`^,^,,`..     .....'^;I:`..     .. .^;!l:.  .                    .  .   .
+                                ,,,,::::::::I<;'  ;Ill)u. . ,!>>-w.  `I!-[[}{111{1}. ;-|jftZ``-?|ftjz ~!-}{11{}}}{}>`   ``,!_[}{1111}[l  `,`!])|tffft{_'                            
+                                ;,:I!!!l;:::;>t+^ ,IIlcz^   l>>i{w,.,l-?[1)[-_?[)uj  +|rjxLm:;}rjfcCz.)(|tff|1}[[}}}}!.;<i]}{fczvnj|)f| I>i}(|fcJJUXcuX'.               .. u        
+                                i~~>;^'...:;;I1X> -illYJ:  .<~iifqli[-?{Qc>iI:^^,fv'.ifrrO0! ;{xjrd(:._fx}<l,`'I(1}}1x!]{][)JX]>,`,l+u(^_-{||xLr-!!<]rJl                 uf << . ^  
+          ..                    ^l^..'`^:>+;:;~pj`t<I!XC! .`_-i>rb?(|_-xdj[?~!lI;I[>;}xxxZC: l(nxup)' Ii,.'^,:,!f1}[)Q)n}[}jOt[]~ii>>~]~jt((|Yr,..  .:l`                        .   
+    .                           ...^;IIIl!;:;<Xw-^|-I>XL<..,?~i>vd]?)_-1j)}[[}{{1(Zj~xunuOUl <juncp).  ':l~-]?-?}}}{Xq}v)}})ur|((((1{10)xr(|fJj:.   `^.                     .       "
+f89 = "     .                               .                                                                                                                              ..             .
+  .....      ..   ..   ...   .   ..     ...                                  . .   ... .......................             .                ..  .      .    .    ...  .   ...... .. 
+  ..   ..  .    ..  .     .  .   .      .                              .      . ... . .. ................. ...  ..                       .        .  .    ... ...   .  ..  ..   ... 
+  ..   ..   .  .   .   .  ..  . ....   . .      .                   ...          ... .  .. .... .. ............... .                           .. .         ....   .    . ...       
+ .               ......  .   .    .              ....  .             .          .. .                 ...  ......... ........                  ..      .. . ..  .  .         .  ...  
+  . ...        .        .    .   .       .   .   .             .          . ... . ,)xYCQmppOdkhaaaha*?      ...     ........        ... .   ....      .    .       .  . ..   .  ..  
+   .    ..  .   .... . ..      .. ..      .                  ...  .    .....  i;<?fuYJJLOM0dbkhhaaooooo*#*#~            .  ...         ..    .     ...              ..  . ... . .   
+       . . .  ..          .                                   . .   .      <i^+-}}1tnvUmkIbhoaaaaoaoooo**#*MM#MX         ..   . .   .            ..        ...  ..        ..        
+ .       ..              ..  .  .   ...               .      .. .  .    `[^';<+{}{f|trCZaUkohhhahhhhhkba*##MMMWWWWw    ..   . ..                   .             .      . .         
+           .            .                                     ... ..   ):.`!>_?~_-?](tJd.mbkahkkhhkahao*##MMWW&&&&&&W     .    ..                                  .     .. .     . 
+                                                         .. .   .    ]|,  `:>iii>>_-)X^cOm0dbhbddbbkaoo*##MMM&8888888WU .  ...  ...                                .. .    .        
+                . .                                 .   .  ...      ;Qi   'Il`'^l?}tfv<XJ0U0mwOZwddkaoaho#MW&&%%%%8%&%88  .. .   ....                                  .. .       . 
+                                                        ..  .       &r`    .'.`-)((1x.<fuJLYuUYXzzqbbohao*WW8%%%%%%%&88&8 .  .    ..                                      . .       
+                       . .           . .               . ...       km`'     .)-iI`;]~q.}|ccvxxv|xXLwqpbdba#M&%%%%%%w8%%%88   . .   ..                                               
+                                                          .        f      ']{i .. .,I].;}tvnnuf(YQzLQOZpbao#MW&%%%88%%%%88%         ...                                 .           
+                 .          . .                       . . ..   .  #;      dj`...    `.IU !vvcjtnnOzzJUJQYkao#MW&8%n%%%%%%88:      . .. .                                     .      
+                        . ..                      .     . ...    @OJ$.   XL; .'''...  `]:q;|{(Xp-z.cOx0LQwpwo*###CW&%%%%%%%8 .  .. ...                                              
+                                                          ...    @-;  h  rX^ . ..'.. ^ .``+]11{fUYXLwh]?pdqkkoa~k**WW&%%%%%%,   ..   .                                  .           
+               .        .                              .  . .  . t]     ] J,  ..''''..  ..:-_~{(|XcXYLph-ZkmfdL*o**MW&888%8%%   ... .....                               .    .      
+            .    .                               ..   . .        `I  ..  , !#...'''''.  .'.'^;!?}UCXQwpaaa** <*##MM#WWMW88%%8  .  . ..                                  . .     . . 
+           .            .                            . .  ..  .    .      . 'o  ...'''....'.'.,)j(||0whhho*#**~X#MMMWWMW&&%88 . .    ....                               .           
+                                                .    . .     .. .        z   h, ....'''...'.  >+|f[cLLjCLdoo*ah#qMMMWMWMW&888 .....  . ..                                         . 
+                                                     ... .    .  ..     !   {b   .....'...'.. :'[-(UQXt]+cqbkkdOZoMMm*#MM&&&l  . .  ..  .                                 .        .
+                                                    . .. .     `   b.!I..^  :h. .... ..''..'. 'I;li<rQUn+tYphabC!kbMMWWMWWWW    ..   .                                .             
+                                       ..        . .. . ..      ^  k)L.  ,^` :!^_}zZhhoh(,.;CpphQ<.. {ur,JmZaohqbh#WWW&MMMM   . .. ..                                         . .   
+                                                    .. .  .   .  r   Ib>  }:;..'I-v}l`:[cOQ ' '..>.  <X--Cpo*okwmwoMWWWWMM.         .                                              .
+                                                  .  ...         u   ._M    ... I .    ..' }         (0nOfnOhcmkbkko*##**!  ..     ..  .                                      .     
+                                       .           .. ..    . { t'+     't1<^.. ;!  ^l..'.`* .    ..tZhaod0(mqZbpqqwqbbk. .   .   ..                                     ..     .  .
+                        .                              .      !I ^      '|f~l`  :;c0, !. .v^..'....,UfmQOJc.;->!i(x|1fI       .                                              .      
+                                                     ..    .  X       .  ....   }r|||]]I'Id  .{ .'  jpq.    ..'`'. .     . .    ..                                          .       
+                        .                          .         o  .:`         '.  )Xv[+>?!'Y     .  '.   .!lI:'..   . .  ..  .....                                                   .
+                                          .... . .....      '. -': '  .   ^ :.  |{)(1r|i_h                         . ..  ..  ..                                       .            .
+           .              .                .       . ..     &Q .'^'^.^;  .``'..+)}][jr1}k               ..     .    ..    ...                                                       
+                              .  .   .        .         . .  ?.  I{.:. ^   .  ?v->{!vncC#               .           ...    .. .                                                    .
+                              . ..   .   .        -ffftx..   .%...v^:}il'    xu~->:[tCCCYv0   UzcvX                 .     . .... .   .... . ... ..    . .                           
+                             ...  ..<<<~~++_tvn^  n??]]q      U.. `:':,>'  'fxcx)<^!rOoo**O   |**o#     .;{u0QLCJY*@+     ..    ..  ..... . . ..         .                    .     
+                             ...  l<<~~~~~~++_0c  X????w      @]_. ^'.';'^[fxvt?~I`^?w###MQ   |M#**.   (]pqwZ0QCCUUUC .    . . ..   .   .               ... .                       
+                            .    <<<>iLI...l(<Jv  x-???m.    %:#;    ..'._)cv(l.'`'. CMMMMC   fMMMo   +mkdpwJ  . >z[C                                                               
+                             .  t>><<@Q       .   (---?p.d1))tqx   ...  ?{LZwwhq]    zMWWWY   rMWMa   Johkd#       .       CZOqLJd@z  .     CCQWodb#@d   . .                        
+                                 >>>>iYXnf        (---][[[}111)(@x   '?XUCLOmqdbhB   ZMWW&X   jWW#k   [#hbpwoW|      .   z|cvvccXzXzXB . .m|LLLQ0OZmwqd      ..                     
+                             .   `>>>>>>>><Uwz.   |___-]]` ']1))(Z  jnuvYx    ;kha$..qMMWWX   jMM#k    <kdpwZ0QCJd8     kuunvr.  ]>zXX8  X]UJCCr.  `)?w     .              .        
+                   .             . ^;i>>>><>>>Bm. n+___X  .  }{11# .}rxv&Y(()(?pbho~ w####z   r##*k      J-mOQCJYXcv@  QxnnuMJXYXzvcczz mJYXYY}                                     
+                           .   .       `f;>><<~Bc J++++c     }{{1* .fjjxuzYJCQZmwpk+ Jhhoon   joahb          'O~Xzcvn& Qxxxxnnnnnnuvccc v]zXzY                                      
+                             . . }.        <<<<b1 n++++v    .}}{{b  (tjrW..     .    |dbbbr   tbddb   j         ~[nnxu.jrrxxp.   .      j>cccz  .          .  .                     
+                 .     .   ...  -<wrxl  . Yi>>>X; ?+++~x  .  [}}}m  i|tfjm`     ']r  Ywwwwv   fqwma   JL@L.   .fzvxxrn .!rrrrf     'u(- ^vcvvv&'   izz#                          .  
+                  .         .   _!iii!>ii>>>>>L'  ~~~~+u    .?[[[q.  ^(tfjxwCYYcXUt  rO000o@.._0QQQ$b QXcvuvxuxrrrrjj    ,jrrxro8Wkunu}.  .uvvczXM&mczQ     .   .                   
+                              .  ^!i!!!!ii!><.  . -~~~~j    .][[[0     ,ffffjrxucf]   'CCCCp   rCJUYX  ^|vnxxxrrjjY       .;jjrrrrxxx(?     ,nvvvvvvvc( . ..                        
+                           .         . . ..               .        .                                .             .                          . .                                    
+                                     .                    .               .                              .            . .              .    .                                       
+               ..                  .`:^`''.....   !... <.  .''.. !    ....'```'''..    ...';     ''`!    ..`^,,:,`..      ....`^;I;`..   .  . .^I!l;.                       .   .  .
+                                ,,,:::::::::I<I'  :Ill{v' . ,i>>_q.  `I!-[[}{111{)1. ;_|jjtZ``-]|ftjY +!-}111{}}}{}>`   ``:i-}}{1111{[l .^,`i])|tffft{-.                            
+              .               . l,:l!iil;:::;!|-, ,IIlcY,   I<>>[q,.:l_?[))]_+?[)vj  ~|rjnLm:;}rjfcCc |||tjj|1}][}}}}!.I<i]}{fczvxj|)j) l>>}(|fzJJUXcuU'.               .. u        
+                                >~~i;`'...:;;I1U< -iI!UL;  .<~iifpi>}-?{0c>!;,^^^tv' >frrO0! ;{xrxd):'?jr[<I,'`;(1}}1x!]{][)Cc?i,`^I~v),--1||xQj_!!<]rJ;                 uf << . ^  
+          ..                    ,I^..'`^:i+;:;+pf`f~IlY0> .^-_i>xb](f_-rdr[-<lII;I[>;}xxxZC: l(nxuq)'.I>I''^,::if1}})O)x}[}rZt}[+>i>>+]+r|((|Yj^.   .:l'                        .   
+    .                           ...^;IIIIl;:;<cw?^t?I<YL<..:]+i>ub[?(_-1j)[[[}{11|Zr~runuOJl ~juncp(.  ':!~-[]?]}{}1Yp{n{}[)vr|((((1{101xr((fJj,. ..`^.                     .       "
+f90 = "     .                                                                                                                                      .                        .    .        .
+  ......     ..   ..    ..   .   .      ..                              .   .. .   ... .......................             .                ..             .  ......  .   ... ..  . 
+  ..  . .  .   .  . .     . ..   .  .                                         ..... . ........................  ..                       .      .      .  . .  ...     .  ...   ... 
+  ..   ..   .  ... .       .  . .... . . .               .          .           ... ..  .. ....... ............... .                        .....          ...  .. .    . ...       
+ . .  .    .    . .....  .   .    .       .      ...        .        . .        .. .                 ...  ..................                . ...  .  .. . ..  .  .     . . .  ...  
+  . ...                                     .    ....          .         ... .... `1rXJLwp#Zbkhahahh*?      ... .   ..........      ... .   .....     .  . .    .  .  .    . .  .   
+   .             .   . ..   .   . ..      .          .        ..  .  . .....  >:<?fuXYYCw;mdbbkhahhaaoo*#*#+        .   .  ...         ..    .          .              .   ..   . . 
+       . . .  ..           .                                 .. .  ..      ~!,<_]?f|urZwozhaaahhaaaaooo****#M#MY    ..   ..   . .   . .     .     .        .. ..  .  .  . ...       
+ .   .   ..                  .  .   ...             . .     ... . ..   . [^';<~[]1)})nUp`Zaabkhkkhkbhdho*##MMWWWWWd    ...  . ...                  .                 .  . ..        
+           .                                                 ....      1,.^;><<l+?~{{nLonqbkhkdkkkhhhko**#MMWWW&&&&&W    ..    ..                                  .     ....       
+        .                                                .   .  .    <1` .`,!II>>l>-tw;L00wpbkddpkdhaaao*#MdW&88888X&WY .  ...  ...                                ..      .        
+                . .                                 .  ..  ...  .   ;J,   `;,..^!-1[j.|JCCJQmOOZqqbhhhkk*#MWW8%%%%8%8%88  .. .   .  .                                  .  .       . 
+                                                        .   .       W('     ..:_|1]{0.](XUYnzXXuzQddaaaao#M&8%%%%%%a888&8 .  .    ..                   . .              . .         
+                       . .           . .               . . .       hQ^'     l>l:`;l!x.!1njrxjj|}cYZwwdppko#W8%%%%%%M%%%888   . .   ..                                               
+                                                          .       '(     ^.|;' ... ,lO <]fxnt|)uYYYU0Qwdbho*MW8%%%h%%%%%88%     .   ...                                      .      
+                 .          . .                       .   ..   .  o`     l0I'...    . X `)zjr(frXzCvXcYZZhho#MW88B%%%%%%%88i .    . .. .                                     .      
+                        . ..                     ..     ....     @m*@.   o_ ........  !.t-)[{nz<t+fZzLLUOwmdoaM#Xh&8%%%%%%%8 .  ..  ..                                            . 
+                                                          ...    @)> ^; .*<  ..'...' < .`,<]]][XznXwwr^Zpqpkao;Qo##W&8%%%%%%~  ...   .                                              
+               .        .                             .  .     . r+     .'k  ...'''. .   ';!<~()ruz(JZb*}wd_W`*h*a#MW88888%%8   ... .....                                    .      
+            .    .                               ..  .....       '}  .   [ O` ..'.'`... ...',,+]|rXcmQkhkho#Jm*##M*#WWMW88%%8 ..  . .....                               . .       . 
+           ..           .                            . .  .. .     .  .  o  C(  ...'''.  .. ..!((}(nLdkkh***owmoMMMMWWMW&8888   .    ....                               .           
+                                                .     ....   .. .   .    .  >c  ...''''...   .i}|<(UJxrJmko**hw?hMMMWMWM&&&88  .... ..  .                                          .
+                                                     .. ..     . ..     .   oI   .........'.. ';_(f0Y{1]?Lpbddd[q*Mkb*#MM&&&j  . . ..   .                                          .
+                                                    . .. .     .  --;(....  0(  .     ....... ;'^-l1YCX}(f0kabdZZa#MMWWMWWWW    ... ..                                . .           
+                                       ..        . .  ....      ` -w~J . ^.. :`~](Cbka#X!'.|Odbh{...`xz[^OqbahkkqhMWWWWWMMM   . .  ..                                         . .   
+                                                       .  .   .  :.  n88 ;;`. .'~)f<``l{Ud '... I..  |r>fmhkhk+wZb*MWWWWMMI    .   .                                               .
+                                                  .  ..          ?   .Cd    . . !      ...+       . ~YXJxtcwakwkbkk*o#***[  .. ..  ..  .                                      .     
+                                       .           .. ..      -.b.    . I1+:....;~' .~,.' J ..   ..?rdhakm)`nbbdwmwmpbbk. .   . . ..                                      .     .  .
+                        .                              .      +f r      ,(?;^ ..:_Yz.. ..Ih`.:.....+)wQmCY| ']IIljt|_x+       .   .                                                 
+                                    .                ..    .  [ +       ..      tz[}<?I^ |q   >.'. ^Qb_     ..'`'...     ......                                             .       
+                        .                          .         p  .^.         ..  [{))-?~'iw.      .`    .!lI;`..         .   .                                                       
+                                          .... .  ....   .  '> ;`  '.  .  ` ! ..1-)(}n-:J        .                  .    ..   .                                       .     .       
+           .              .            .   . .        .     WZ .'':.'^^  .'.'..)(+-)t)_nW.       .   ....           ..    . .                                                       
+                              .  .   .        . .       . .  >.. -. ; .       f);~>!v|cp.               .        .  ...    .                                                     . .
+                            . . ..   .         .  <ffffx .   .W..'t.i>:^    ;X1>?!l(jJCLcnO   JXzcX                 .       .... .   ...... ...  .    . ..  .                       
+                              ..  . ~<<~~++_tvx:  f-?]]d   .  O   `.'`^,   i|xj1<`,?xOoo**L   t#*o*     .l{u0QLCUY*@+         . ..  ..... . . ..   .     ..                   .     
+                                  l<<<~~~~~++_zv  r-???p      @~i. . ..^.;tfnf1]!I.;)w###MY   tM##*.   f}dpwZOQLCJUUQ .    .    .   .   .             . ... .                       
+                           ..    ><<<>Ql. .,j>vv  |-?-?q.    Bl8       .^?rvt+, '`.  CMMMWX   fMMM*.  -qkbpwC    ic}0                                       .                       
+                             .  ]>><<@L       .   }---]b.d1))|qx    .   -{LOmwbd1    zMWWWY   xWWMo   Coakd#       .       JOZwCJp@z  .     LLmWhpd#@d   ...                        
+                                 i>>>>cYnr        }---][[[}{11))@z   '-XYCLOZqpbkB.  mMMW&X   rWWMk   }#hbpwaWt      .   XfcvvczXzXzXB . .m(LLLQ0OZmwqd    . ..                     
+                             .  .`>>>>>>><<zqz`   {___-]]' .-1))(w  txnvYx    :bha$..qMMWWu   rMM#k    <kdpwmOQCJp8.   .huunv(.  ]>XXX%  z{UJCCr   ^1-w     .                       
+                   .           . . ':ii>><<>>>BZ. (++_-Y  .  }{11M .[jxu&Y|()(-qbho+ q####n   x##*k      U_mOQLJUXzc$  QunnuWLJCJUccccY mzXXXY+                            .        
+                               .       'n:>><<~Bz n+++_X     }{{{# .tjjrncXUCLOmwpk- Jhhaoj   joahb          'O~XXcvn& 0xxxxnnnnnnuvccz.c{zzzJ                                      
+                             . . )^       .<<<<q1 |+++_z     [}{{k  (tfrW       .    (dbbbr   fbddb   u     .   -{nnnc.rrrxxp.   .      f<cccX             .  .         .           
+                 .     .   .... +>Zrr~ .. Li>>>Yl _++++v  .  [}}}w  <|tfjq:     ^+r  Ywwwqv   fqmmo   LL@L'   .uvuxxrx .!rrrx|     ,u)I ;ncvvc8'   ]zcW                          .  
+                             .. +!iiiiiii>>>>>J` .>~~~+c     ?][[q.  ^(|fjrZLYYcXYf  rO000h@.._0QQQ@q 0Xzcvvxuxxrrrjf    ,jrrxrk&Mbrnn<.  'uvvczz*WQczO     .   .                   
+                               . `li!!!!iii><.    _~~~~u     ]]][O     ,ftffjrxucr_   'CCCCp   fCJUYz  `)vnxxxrrrjC       .:jjrrxrxxxti     ,nvvvvvvvc| . ..                        
+                               .     ... ..          . .  ..       .    .                                         .                          . .        .                           
+                                     ...                  .                                                             .               .             .                             
+               ..    .             .`,^`''.....   i... <   .'''. i    ....`^``'''..    ..''I     ''`!    .'`,::::`..   . ....'`,;I;^.    .  . .,l>!;.                       .      .
+         .                      ^,,:::::::::I~l`  ,Ill{v' . ^i>>~q.  `Ii-[[[{111{)). ;_tjjtZ``-[tftjX +i?{111{{}}{{>`  .`^:i-}}{{111{[l..^^`>[)|tffft{-.                            
+                                l,:liiil;:::;!(?: ,IIlvC,   I<>>?p:.:l_?[))]++-]1vx  <|rfnQZ:;}rjfzCv |||tjj|1}[}}}{{i.I<i]}1jzzvxf()x1 l>>{(|fXJJUXcuY'.               .. u        
+                                >~~i;^'...:;;I1z~ _>I!U0I  '<~iifd>>}-?{0v>I:^``^tv'.>jrrZQ! ;{xrxd):'?jr}<I^'`It1}}1ni[{[[)Cv-!^`^I~c{:?-1(|nLj~l!<]rY:                 uf << . ^. 
+    .     ..                    ,I^..'`^:i+;:;+pf^t~IlUO> .:?-i>zb](j_-rdr}->lII;I[<;{xxnZC: l|nxvq)'.I!:''^,;:if1}}(O)x}[}xO|{[+>i>>+[+r(((|Yj^.   .:I.                        .   
+    .                           ...^;IIIIl;:;<zq[^t]I<zL<. ;[+i>ub}-|--{j)[[[}{11tmr+xunuOJl ~juncp|.  ':!+?[]?]}{}1Yq}n{[[)vr|((||1{)01nj((fCt,. ..`^.                           . "
+f91 = "     .                                                                                                                                      .                        .    .        .
+  ......     ..         ..   .   .      ..                              .    . .   ... .......................             .                ..        ..      ......  .   ... ....  
+  ..  . .  .      . .        .   .      .                               .  .  . ... . ........................  ..                       .        .    ..  .  ..    .  .. . .   .   
+  ..   .    .  ... .          . ..     . .      .        .          .            .  ..  .. ....... ............... .                        ......          ...         . ...       
+ .               ......  . ...            ..     .. .  .    .        . .  ..    .. .                  ..  ......... ........                . ...  .  .  .    ..  .  .  . . .  ...  
+ .. .                                           .   ..     ..  .         ... .... '}jzU0wq}wbkhhhhhh*-       .. .   .......... .    ... .   .....        . .          .      .  .   
+      .          ... .         .. ..      ..       .          ..  .  .... .   >,>]fvXYXCp-wpbbkhhkhaaoo*#*#+     .  .   .  ...  .      ..    .       .  .           ..     ..   . . 
+       . . .  ..           .   . .              .            .  .          _l,!~-?](numd~Ohhhhhhaahhooo*o**#MMMJ    .    ..   . .   .             .        .. ..        .  ..       
+ .   .                       .  .   ...             . .      .. . ..  .. }`';!<-_1]}}XLbudakdkhbkkkkkpho*##MMWWWWWd .  ...   ....                         .             .    .      
+                                                             ...  ..   1,.^^!!!;!_<?{um.0ddhhbbbkbkkhho**#MMWWW&&&&&W     .    ..                                  .     ..         
+                                  .                      .. .  .     l{'  ',;:^Il;>~x,xLQQqpbbqwbwqhhhao##MMW&88888a&&z .  ...  ... .                              ..     ..        
+                . .                                 .  ..  ...  .   lz^   '^'..^l~][(!rxYcJ0ZQ00qqdhhkba*#MW&8%%%%8d%%88  .. .   ....                                  .          . 
+                                                        .   .       M1        ;+?_-1 !1xvXujXvrtXwqmhhhhaMM&8%%%%%%%%88&% .  .   . .                   .                . .         
+                       . .           . .               . ...       *Y^.     >!;,.'>lz.<{xtf)1|]jrXZOqpwdh*#W8%%%%%W8%%%%88   . .   ..                                               
+                                                          .       :}.    i^]:    .'^~ ,<}fj)|[?fXfzYCLmpkh**MW8%%&8%%%%%888         ...                                             
+                 .          . .                       . . .    .  k.    ;Jt'.....  . ,~ ;r)n){|jCr(cnnCObkho*#W&8Y%%%%%%%88-      . .. .                                     .      
+                        . ..                      .     . ...    @m%C   }L' ......  ..>,Cl?-1jZ?t^uJzYzCOmOha**oOW&8%%%%%%%8 .  ..  ..                                              
+                                                         ....    @r~ w  [Y   ....'...  ..I!_+i)uruL0w;fwwZqboo;k*#MW&%%%%%%8|   ..   .                                .           . 
+               .        .                            .. ..     . ni    x X`   ..'''..    .<^I?-{xrjzJwk.ZdnrXOoao*#MW888888%8   ... .....                                    .      
+            .    .                               .  .... .       `r  .    la   .'.''..  . ..',~_vXjQ0wkkdaa'~h**M#*MWMW&88%%8 ..    .....                               .         . 
+           ..           .                            ....  . .     . .  .. 'o   .. ''...  .  `[}[<1zwdbbhooaM~n*MM#MWWWW&88&8.  .    ....                               .           
+                                                .    .....   .. ..      :  .h^  .. .''... .  :i?]!nzX[zzmho*hbk0#MMMWMWM&&8&8  .... ..  .                                         . 
+                                                    ......     . ..        [p   .  ......... `.!l(Yun+<!umppbq0ZhMMna*#MW&&&L  . . .... .                                          .
+                                                    ....       >  W,>U..   :k  ..     .'......``,,I|Jv(l1uwkhdqldwMMWWWMWWWW    ... ...                               . .           
+                                       ..        . .......      ! hCj{. ..  ',^I-vOdk*q?^ :Ywwbr`.  [r1'XZOhokbbkoMWWWWMMMM   . .. ..                                .          .   
+ .                                                    .       .  ..  -b- i..   ,<v!^.:-vZ( . ' .;   iui<Yqhaabu0mk#MWWWWMM_  .     .                                               .
+                                                     ....  ..        ,*'   . . '        . _         [U|C1jQkmXpbbhaoo****r  .. .       .                                      .     
+                                       .           .  ..      -.M..   - !~I'   ,;  . II...h..     '?CbhaqQ)fLmdqwZwZbbbk'     .   ..                                      .     .  .
+                        .                              .   .  -L.q      l?!'.  `^(Xl..   rY..:....`utZL0zz. :-lIic([[v[           .                                                 
+                                                     ..       [ Y       ..     ;[1}+>i` 'q    .;'  )pq.    ...`^'...      ... ....                                                  
+                        .                          .  .      m ..'             lx)<I:i^ ft.      '.    .ilI;^...            . .                                                     
+                                       .  .... .   ...   .  'X  .  .` ..    ; .[?[i~]}:Ip.                          .    ..  ..                                       .     .       
+           .              .                . .   .  ..      #c .. `. ''     ..'1-+?_)+>d'              .       .   ...    ....                                                      
+                              .  .   .        .         . .  I.  +  ^ .      ,x+^<;rrxXo`               .        .  ..      .                                                    .  
+                              ....   .         .  !ffffr .    m. :_ i:.     _)_l^,l1nYCJuxO   JXzcU                 .      ..... . . . .... ...  .    . ..  .                       
+                             . .    _<~~+++_|cx;  1-?]]k      w.  ' ..`.   ]1r{?!.^1vOoo**C   f#*o*      i{vOQLCJYo@+     ..  . ..  ..... .   ..   .     ..                   .     
+                             .   .;<<<<~~~~++_jv  (????b      B<: .  ..' i(xf)~i` .!)q####Y   fM##*    j1dpwZOQLCJUUO .    ..           .               ... .                       
+                           ..    i<<<>Qi. .`n>tv. }-?-?b     B>%.     . I+jr?:.'`'   J#MMWX   jMMM*.  ]dkbpwC .  !c}Z               .                       .                       
+                          .  .  ;>><<@L       .   ?---]h.d11)|pu    .   _{LOmwdd)    zMWWWY   nWWMo   CoakbM       .       J0mmCUp@u  .     QLdMbwq*@d     .                .       
+                           .     i>>>>uYnx.       ]---]]][}{11))@J   '-zXUCOZwpbkB'  mMMW&X   xWMMk   {#hbdqaWf      .   XrcvvczXzXzX%    m(CLLQQOOmmqp      ..                     
+                             .   '>>>>>>><<nqz;   ]___-?]' .+11)(q  )nnuXx    :dha$  qMMWWu   nMM#k    <kbpwmOQCJq%    'huuuv?.  ]<XXX8 .c|UJJCn   ^1-m     . .                     
+                   .           . . .:ii>><<>>>$Z' }+++_Y  .  }{{1M  ]jrn&Jt|)(?wbka+ q####n   x##*k      Y_mZQLCUXzc$  Qcnnu&OQ0QCXcczC mvXXXY;                                     
+                             . .       .v,>><<~Bz |++++U     }{{{#  |fjrncXUJLOZwpk- Jhhaoj   roahb          .Z~XXcvn& Oxxxxnnnnnnuvccz.v(zzzL ..          .                        
+                             . . |;       .<<<<O1 }+++_J     [}}{h  )|frW       .    (dbbbr   fbbdb   c     .   [)unnX.xrrxxd.   .      f+cccX  .          .  .                     
+                 .     .   .... i>Orr{ .. Zi>><Yi >++++X  .  ]}}[w  +|tfjb!    .,<x  Ymwwqu   fqwmo   0L@Q^    znnxxrj 'lrrrx)     lv)` !tvvvv8'   tzu&   .                      .  
+                             .. i!iiii!!ii>>>>Y` .!~~++Y     ?][[p.  ,)|tfr0QUYvXYf  jO000bB.._0QQQ@Z ZXzcvvnnxxrrrjf    ,jrrrrp&Mqrnu:  .'vvvczch*UczO     .   .                   
+                           .     `li!!!!iii><.    <~~~~z     ]]]]Z     ^tttffrxucj+ . 'CCCCp   (CJUYz  `1cnnxxrrjj0       .:jjrrrrxxxr:    .,nvvvvvvvc|   .                         
+                                     ... .      .      .  ..       .    .                           .                                        . .                                    
+                                     ...                  .               .                                             .               .             ..                            
+               ..              ..  .`,^^''.....   i... <.  ..''. <    ....`^^^`''..    ..''!     '``i . ..'^,::;:^...    . ..'^,IlI^..   .  . ',l>i;.                       . ...   
+                                ^,,:::::::::I~l^  ^Ill{z' . ^ii>+d.  `li-[[[{111{(). I_tjjtZ``-[tffjz _>]{1111{}}{{>`. .`^;>-}}{{111{}!..^^^<[)|tffft{-.                            
+              .                 !,:liiil;:::;l)]: ,IIln0:   I<>i[b;.:l_?]))?~~_]1nu  <|rjnQZ:;{rjfzCu |(|tjj|1}[}}}{{i.l<>][1jzzuxf()n{ l><{(|jYCJUXcuX'                .. u        
+                                >~~i;^'...:I:I}X~ _<I!JOl  `>~ii|d<>}_-{0v>;,'''^fc'.>jrrZ0l I{xrxd(:'?jr}>;^'.Ij1}}1ui[{[[)Lv-l^`^I~c];?-1(|nCf<ll<]rX,                 uf << . ^  
+    .     ..                    ^I^..'`^:i+;:;+dj^|+I!YZ< .;]-i>ub]|j_-jpj[-ilII;I1+;1rxnmL: l|nnvq)'.:I`''^:;:if1}}(O)n}[}xO|{[+>i>>_}_x)((|Yf^.   .:I                         .   
+    .                           ...^;IIIIl;:;>zp[`t[;>zL<. l}_!>vb1_|--{j)[[[}{11twx+xunuOJl ~juncq).  ':!+?[]][{{{1Um[u{}}(vr|((||1{(0{uf((fL|,.   `^'                             "
+f92 = "     .                                                                            .                               .  .                            .                              .  
+ ..... .     .        .    .     .       .                                 ....   ........... .................            .                ..  .      .   .....  .       ... .  .. 
+  ..   ..  .         .       . . ..   .                                .   .. ..  . .. . .. ................ ..       .                         .  ..  .   . .....  . ... . .   ... 
+  ..   ...  .    .              .. .  .         .        .           .         .. . ... .. ....... ................. ..                     ... .       .  ..      .    . .         
+    . .    .      ..     .   .  .         ..      . . ...              .   .  . .....                 .  ........  .........                          ..      .. .   .  . . .  ...  
+      ..  .   .           .. ..            .    . .  .      .   ..   .    ....... .?fcUQmw.wbkhhhhhho-     .    .    ..........     ... .   ... .     .    .          .  ..  .  .   
+                  . ..   .   ... ....       ..     .           . .    ... .   i,i]tcXXXLkXwpbbkhkhhaaoo*#*#+     .. .   ......  .         .             .            .    . ... .   
+       .        ..    ..       .                .            . .   .       -l,l<<+]|jc0b<bhhhhhhhhhhaao*o**#MMMJ      .    .. . .   . .                     . ..        .  ...      
+     .     .  .              .  .   ...                      .   .. . .. }'';I>+~?+_(nZcChhbbkkbkbbkdbao*##MMWWWWWp    ..    ....                 ..      .             .    .      
+           .    .                                               ..     1:.^';II:!l-+(Ym[Zdbhkpbbbkkkbaoo*#MMWWW&&&&&&   . .   ...                                  .      .         
+                                                            .. . .   :[.  .,,,^:^:i<Q`YYLOwpdqqwdqbhhhao*#*W&&888888&8c.. .... ...  .                              .  .   .         
+                . .                                    ..  ...  ..  !n^   ''. .^;~-{ ]cYzzJ0LC0ZZpbkkbbo*#MW&%%%%888%%88  ...    ...                    .              ..           
+                                   .                    .           *1.      .;_+l~J <[rvx(nxrfnJmqkkkkh*MW&88%%%%%%8%%&% .   .    ..                   .               . .         
+                       . .       .   . .               .   .    .  Wc:.     :^`.`^^( ;_t)1(1}-_rvLZZmZmbo*M&8%%%%%z%%%%%88     .   .. .                                             
+                                                       . ....   . i['   `^!,      '^Y l<{t|([_rvuuvYYQmdbao#MW8%%q%BB%%%888    .   ..                                    .          
+                 .          . .                    .   .  .      .m.    `Q! ....     X '-f{{-}}vjnxujuU0bbao#MW8%&%%%%%%%8&1.  . .. ..                                       .      
+         .              . ..                      .    .....  .  @q@I  .0)  ......   `.1,+i-ju;]`tL{YzcCOQqok**XmW8%%%%%%%%8 .  ..   .                                              
+                                                             ..  BX!.O  k~   ...... : . 'I><>~xjfvLO)`0ZmmqkalJa*#MW8%%%%%%8U  ... . ..                                             
+               .        .                             . ..     . vl    ^ a    ..''. .    ^^,I]?)jn)v0p*(Zw+# ak*k#MW&888%%%%8    .. ..  .                                 .  .      
+          . .    .                               .   .....       ,n     % Cl  ....'...    ..'!!}frfOUbbbka&zZo*##*#MWMW&88%%8   ... .....                               .           
+           ..           .                       .      ..   ..          !  uX  .. '.. . .    ;__+]xOqdpboookZqd#M##WWMWW88%8&   .    ..                                 .       .   
+                                                .    . ..    ..  .      I  ,C  .....'.....  .,~{;{cY||vZbhoobwIkMMMMMWMM&&&88  ..   ...                 .               .           
+                                                    ....       .       ).  k~    .......''    .i?}Xui-i-Uwpppb_m*M*p*##MW&&&m  ..... ..                                            .
+                                                     ..        x  @;[}     Cx  .    . .......'.'!^-vzxi?[JdkpdvOha#MMWMMWWWW   .... ...                                 .           
+                                       ..        . ......       - %Cq.;     ..;![JddhonI'.1Cwdb+ . '(x~`CZpkkbdZh#MMMMW#MMM.  . ... .                                .              
+                                                  ..          .      o&..^  .  I{{:..I]cq.'..  :..  ]1;[Qbdhh~ZJma#MWWWM##1 . .     .                                              .
+                                                  .. .  .            }8      . :   .    .`.      . ^rnz)1uZhdOdqbdao*****Y  .  .                                                    
+                                       .          ......  ... ) &,    > !l`.   :l  ` `~' }l..   . <)qbhkw|.wpppmmmmmbbkk`    .                                            .     .   
+                        .                           . .       >Z )      !<^.  .`,fx`... 'bj .'.''.:+qLmJUj ;~>Il-nt)}zr    .   .  ..                                                
+                                                    .         { }              -(><l:^' +k `   (. .Upu      .'`^'....  .       ..                                                   
+                        .    .                     ...  .  . 0.)...  .         l1[ii:,.'L'I     .'.    'iI;I,'..    .    . ...                                              .       
+                                          .... .   ...   .  'k        '     ' .+~-}<}<`(I                         ...  .. ... .                                       ..    .       
+           .            . .         .     ..    .. ..       *v.. ..  '.     ..~_:l!1+<[o l            .....        ... . ...                                                        
+                                     .      . ...      .. ...l. .l  '        <[::>^{}xCU'                           .       ..                                                   .  
+                                . .  .         .  :ffjfr      j< ;;.;`.     ||,l!'?]nJLXrxO   CXzcU                 .     .  ..  . . . .... ...  ..  ..  .  .                       
+                           ... ..   ?<~~++++(cx!  ~???]h .    q^  ....'.  .[}|[>'.:{cmoo**C   j#*o#      ~1cOQQCJUo@~         . . . .....      .  ..    .  .                  .     
+                          ...  .  :<<<~~~~~~+_)c  +????k      B<`     . .<]1|+I^`..<tq####Y   rM###    x(ddqZOQLCJJUq .        . ..     .                ....               .       
+                           ..    !<<<>Q>   .z!{v. <---?h     B+B. .     I_t)<`.'`. ..C##MWX   xMMM*   }khbdwC .. !c}w                                      .                        
+                          .     .>><<BC           !---]o b1)1(pv     .  _1L0mmpaj    XMW&Wz   uWWWo   Loakb#       .       UQwZJYw@n  .     QCk#dmq*@p   ..   .                     
+                                 i>>>>fUxn.       >---?]][}{{1))@Q   '_zXYCOZwqdkB^  mMMW&c   nWMMh   1#abdqh&j       . .XncvvczXzzzX& .  m(CLLQ0OOZmwq    . ..                     
+                             .   .i>>>>><<<fqc~   >-__-]]' .<11)(k  {xxnzx    :dhh$  qMMWWu   uMM#k    <kbpwmOQLJw%    ^kvuuci.  ]+XXXW `vrUJJCc   ^1-m    .  .        .            
+                           . ....   :i>>><>>>>@O. >++--C     [}{1W  ?jrn&Cft)(?wdka+ q####r   n##*k      z+wZ0LCUYzc$  Lcnnu8mOZOQYccc0 mnXXXY'                            .        
+                               .        u:<><<~@z _~++_L   ..[}{{#  tfjrnczYJC0Zmpk- Jhhaoj   xoahk          .Z~YXcvu& mxxxxnnnnnnuvccX vjzzzQ  .         .                         
+                          .    . f+       .><<<J1 >+++_Q     [}}{h  )|frW       .    |ddbbr   jbbdk   Y         1)unnJ.nrrxxp    .      f]cccJ             ..                       
+                 .         .    :<0rr| .. qi>><Y< I++++J     ][}[q  ]||tfa+.   .!!x  Umwwqn   rqqm*   ZL@O;    Yjnxxrt 'lrrrn1.    -u(. <}vvvv8'   uznW.  .                      .  
+                             .. ;!!iii!!ii>>>>Y^..:~~++J     ]][[d.  ;(|tfrLQUXvzXj  tO000pB.._0QQ0BQ wXzcvvunxxrrrrj    :jrrxrOM#Ornu'  .'vvvczcbhXzzO   . .                       
+                            . .  'Ii!!!!iii><..   l~~~+U     ]]]]m     `t|tffjxucxI . 'CCCCd   1CCUYc  `}cunxxrrrfZ    .  .,jrrxrrxxxv`     ,xvvvvvvvv(    .                        
+                              . ... ....           .   .  ..            ..                .                                    .                        ...                         
+                                     ..                   .  .            .                                             .               .             . .             ..            
+               ..    ..            .`:^^''......  >.''.?.   '''' ~    ...'`^,^``'..    ..''!    .'`^> . ..'^:;:;;^...    ....'^:IlI^..   . .. ':!<>I.                          .   .
+                                ^,::::::::::I~!^  ^Ill[Y`   `>>>+d.  `l>-][[{{1){|(. l_tjjtZ'^-}tftxu ->]{)111{}}{{>`  .^^;>?}}{{111{{:..,^^~}(|tffff1?.                            
+                 .              l,:lii!l;:::;l{{; ,IIlu0:   I<>i1h;.:l_-[()?<<+?{uv  >|rjuOO,;{rrfXJx.|(|fjj|1}[}}}{{i.!<<[}1rXXurt()c].!><1(|rUCUJXcuc. .  .           .. u        
+                               .~~~i;`....:I;I]Y_ -<I!UOl  ^>~i!(d+i{_-{0ci;^'''`fv'.>jrrZQl l1xrxb(,'-jj[i:`' lr1}})ni[}[[(Qu-I^`,I~v_I[-1(|vL|>IIi?rc^                 uf << . ^  
+   ..     ..                    `I^..'`^:i+;:;-bx`|+I!XZ<  ;]-i>rb]|r+_fmf]_ilII;l)_I1rxnmJ, !tunvp)' :I`''^:;:if1}}|O1n}}}nO|{[_>i><-}-x1((|Ut`.   .:I                         .   
+    .   .                        ..`;IIIIl;:;>zp{'j);izL<. l}_!>cb)-|__}f)[]][{11twr+nvnuOYI ~juncq1   ':!+][]?[{{{)Jm}v{}}(cr|((t|1{|Q}uf((jL):.. .`^.                           .."
+f93 = "                                                                                  .                               .  .                            .                              .  
+  .... .     .     .   .   .. .  ..      ..                                ..    . ... ... .. .................            .                    .    ... .  ....  .   . . ... . ... 
+  ..   ..  .   .  .. .       .   ...    .                              ..  ..  ....... . .. ..................        ..        .               . ..   .      . ..  .  .  .     ... 
+  .. .....  .    ...            ....                     .           .         .....   ...  ...... .............. .. .  .                   ... ..  .       .      .    . ..        
+ .  .    . .       . ..      .. .      .   .     .... . .    .            ..  . .....                 .  ........  .........                    .     .    ..  .     .  . . .  ...  
+      . . .  ..        .  .      .         ..   . .  .          ...  ..  .... ...  +tcUQwwlwbkkhhhhho_     . ....    ..........     ... .   ..  .     .    .          .  ..  .  .   
+ .    .  .       .. ...    ...  . ...       . .   ..    .      . ..   ..  .   l^!]|czczL*Qwpdbbhbhkhhao*#*#+     .. .   ......  .          ..          ..      .     .    ... . .   
+       .        ..    ..                             .         . ..        ?!:Ii!<](fCZhnbkhhhkhkkhhaaooo**#MMMJ    . .    .. . .   . .                     . ..        .  ...      
+     .   . .  .              .  . .  ..             ..      ..  .  .  ...}'';;i<<~<-tcq:mhkdbbbbkbbdqkao*#MMMWWWWWq .  ..  ......             .   ..      .             .    .      
+           .                                                    ....   {:.`':::,l:++tQ1Uwqbbdpdbpbbbkhoo*#MMWWW&&&&&8  . ..   ...                                  ..     .         
+                  .             . .                         .    .   :?  ..^^`^^`:l[f}YUCZwqqmZqmqkkkhao*#*W&88888p&&8c.. ........  .                                 .   .         
+                ...                                 .  .   ...  ..  <f'.   .  .`l<~c^(fcfcJLCULmwpbbdpho*#MW&8%%88u88%88  ...    ...                    .              ..           
+                                   .                    .           h}       ';>~Ii.^-(tu|[x|{1nOmZbbkkh#MW&8%%%%%U%%%%&8 .   .    ..                   .               . .         
+                       .        ..     .               .   .    .  Wv>.    .``' ^,`r l_{}{]-]<))vLCOZ0mka*M&88%%%&&%%%%%88         ..                                               
+                                                         ....   . -[^  .i.!.      .; `I+)1[[<>}t(xuvYQmdkoo*M&&%8%%B%%%%888    ..  ..                                    .          
+                 .          . .                    .   .  .      `U.   ^:f......    .; ^[~(?-]1v|?x{tXLqpkao#M&8q%%%%%%%%88f.  . .. ..                                 .     .      
+         .              . ..           .         ...  ... .   .  Bd@.  :d^ ......    !.x,i+[(x>},jvxxuzLLQbhao#dMW8%%%%%%%%% .   .   .                                              
+                                      .                .      .  @LI;^ .d.   .......  . `;ll:]t1tYJY.jOOQOwha^da*#M&%%%%%%%%O   .. . ..                                             
+               .        .                             . ..     . Xl   ^.++   ...''. .   .;''>!?){]vXZd.Om(xnJhhhh#MW&888%%%%8   ... ..  .                                 .  .      
+.         .      .                               .    ....       >c       k.  ...''..    .  ';ijn)JYZbdZkh'-ko*#**#MMMW&88%%8   ... ....                                .           
+           ..          ..             .         .    . ..   .  .  .     X  d   .. ''.....   .<<~:}jZwpdkaok#l(o#M*MWWMM&88%8&        ..                                 .           
+                                                .    .. ..   .   .         0^  ..........   ';ilI)rj-xxZkaobqaY#MMMMMW#W&&&88  ..   ..                  .                           
+                                                    . ..      ..       .  `*      ........  . ^;[vttiI,rQqwdOm0b#MXbo##W&&&&Z  ....  ..                                            .
+                                                     ...    .  O  $!r^.   .b          . .... .'^',[zr]^+fZkbwO|mp##MMWMMWWWW    ..  . .                                 .           
+                                       .         . ......       {:Bzm..     `.,!tCwpaZ~`.,n0Zq)'.  ~1-.vQLbkbbqqhMMWMMM##MM.. . ..                                   .          .   
+                                                  ..    .     .  '. ]&8 `.    `,j;'.'>rQ) . . .,   :|:;uZkhkb(JZpoMMMWWMM#|   ...                                                  .
+                                                  .. ...    .    '.  Xw     .  .  ..    .i       . <v[Y~1Upocwpdbbaa****#L  .  .    .                                               
+ .         .                .          .           .....  ... x &?   ' 'I,'.  .^,  .  ~` p       ._YqbbqQ1'?dqqmOmZqddkk^    .     .                                      .     .   
+                        .                           . .       :d.`     .l;..  .`i(!.!   !aO ^.''..({ZJ0cc: .];I!|ftf{Xz    .   .....                                                
+                                                     .        { `              -1>l^:.. J^ :   '. -mw^      .'`^'...'  .     ....                                                   
+                        .    .                     ..   .  . J h. .            ~!I!:;' >* '     '.   . '!III,`.     .      ...                                              .       
+                                         .......   ...   .  .W        '  . ...`<;i~;]`^Z  l                       ....  . .....                                       .     .       
+           .              .         .   . .   .  ....       *x;..I   ..  ! .. ~<!~<]-^z0.'           ......        .. .. ...                                                        
+                                     .   .  .....      .. ...l. .`           ?i'I:lf{rb                 .        .  .       .                                                    .  
+                         .      ...  .         .  `ffffj      >( :' `.     `t>:I'`]{xCLcnxO   CXzcY                 .     .. ..  . . ..........  ..   .. .. .                       
+                           .... .   ]<<~~+++)vx~  I???]h .    dl      .   ^-{?>, ._|zmoo**C   r#*o#      -1cO0QCJUo@~           . . .....      .  ..    ....                  .     
+                          ... .   ,<<<~~~~~~+_[z  l????h    . @-'       '_?)?~l`. '~rq####Y   rM###    ntddqmOQLCJJUd .        .. .     .                ....               .       
+                            .    I<<<>L< .. Y!?c. I---?a     %{B. .     I](+,'.'`....C#MMWX   nMMM#   )hhbdwC .. lz}d                    .                 .                        
+                          .      >>><BC           :-_-?# b1)1)pz    .   _(CQmmpar    XMW&Wc   vWWW*   Q*ahb#       .       YCqOUYw@x  .     QJo#qmq*@q   ..   .                     
+                           .     !>>>>1Uxn'       ;-_-??][}{{1))@O   '_zXYJ0ZmwdbB:  mMMW&c   nWMMh   )*abdqk&j         'XvcvvczXzzzz* ..'Z|CCCL0OOZmww    . ..                     
+                             .    i>>>>><<<|qc]   ;-_+-?]' .i{1)(h  [rxnzn    ;dkh$  qMMWWu   vMM#k    <kbpqmO0LJw%    ;dvunc:.  [_XXXa ;vuUUJCz   ,1?m    .  .        .    .       
+                   .    . .. .... . :i>>><<<>>%0. :++--Q  .  [}{1W  -jrn8Jjf((]wdbh_ q####r   u##*k      z_wZ0QCUYzc$  Lcnnu8wmwmOUcccw ZrXXXY.     .                      .        
+                                        j:<><<<@z I~++_0   . [}{{M .|ffrnvzYUC0Zmqk- Jhhaoj   noahh           Z~YXcvu& wxxxnnnnnnnuvccJ vxzzX0            .                         
+                          .      f[       'i<<<v1 :+++_O     [}}{h  1|trW       .    |ddbbr   rbbbk   J         ||unnC.vrxxxw    .      f{cccL             ..                       
+                 .    ..   ...  .<Qnrx .. bi>><Y~ ,++++Q    .][}[p  }||tf*[.    >Ix  Umwwqn   xqqm#   mC@Z!    Y|nxxr| ^!rrrn[.    }u|  _-vvvc%`  .zzr#   .                      .  
+                  .             '!!iii!!ii>>>>z,..`~~~+C     ?][[d.  I(||fjJQJXvzXj  |O0Q0w%..-0QQ0BL qXzcvvunnxrrrrx    :jrrxrQ*oCrnn.  ''vvvczcqpzzz0   . .                       
+                                 .;i!!!!ii>>> .   :~<~+L     ]]][w     `||tffjxnvx,   'CJCCp   [CCJYv  `]cunxxrrjfZ       .,fjrxrrxxxX.    .,xvvvvvvvu)    .                        
+                              .   . ....           .   .  ..            ..                                                     .                        ...                         
+                                     ..                   .               .                                             .              ..             ...                           
+               ..    ..            .`:^^''......  >.''.{.   ''''.+    ...'^,,,```..    ..``>    .'`^<   ..'^:;;I;,...  . ....'^:l!l^..   .... ';!~<l.  .                       .   .
+                                `:::::::::::I+i`  ^Ill_J`   `i>i_d'  `!>-][[{{1)1||. l-tjjfZ`^-{fftnn ?<[1)111{}}{{>`  .^^I<?}}{{1111{,..,^,+}(|tffff1?.                            
+                                l,;lii!!;::;;I?(; ,II!uO;  .I<>i)h;.:!_-]|)-<<+?{uv  <|rjvO0^I1rrfXJx.|(|frj|{}[}}}{{i.!<<[})rXznrt()z-.!>+1(|rJCUCYcvx.                .. u        
+                               .~~~i;`'...,I;I-J? ?>IlcZi  ^>+i!{d-i{_-{Lc!:`'''`tu`'>jrrZQI l1xrxb|^'_rf?!:`'.lr1}})xi}}[[|Qu_;``,I~c~l[-)(|cC1>II!?rv`                 uf << . ^  
+   ..     ..                    `I^.''`^:i+;::-ku'(+IlzZ>  I]-i>jb?|r+_|Of]+ilII;l)-l)rxnmJ, !tunvd)' :I`''^:;:>j1}}|O{j}}}uO|1}_<><<-}-n1((tU|`.   .:I                         .   
+    .                           ...^;IIIIlI:;icq)'r(;!v0<. l[+!>ck(-|__}f)[][[{11|wr+nvnu0XI ~juncq1.  ':!+][]][{{{)Jm{c1}[(cr|((tt1{tQ[vf((jL{,.. .`^'                           .."
+f94 = "                                                                                                               .                                  .                              .  
+  .... ..    .    .   .    .    . .      ..                                ... .  ........... .................            .                    .  .  .. .. .     .   . . ..... ... 
+  ..  ...  .   .  .  .       . ..      .                               ..  ..  ....... .  ....................        .         .               . .    ..... .....  . ... . ..  ... 
+  ..  . ..  .    ..             .  .            .                    .         .....   ... ....... .............. .. .                      ... .       ..         .      .. .      
+ .  . .    .           . ..  .     .   .   .     .  . ..               .     .. .....                 .  ..... ..  .........           .      ... .   .    .   ..... .  . . .  ...  
+      ..  .  ..        .   .     .         .    . .        .    ..   .  .........  i|vUQwq-qdbkhhhhka~       ....    ..... ....     . . .   ... ..        .       .      ..  .  .   
+..       .       ......          .        ..      ..     ..      .    . ...   ;^l]|ccnvQ{Owpddbkbhkhhao***#+     .. .   ......          .             ...     .. .  .     ...   .   
+       .        ..            ..                               .  ..       -!,;II-]tn0qCUbkkkkkkkkhhaaooo**#MMMU     ..    .. .       .                     .              ..       
+     .     .  .                  .  .               . .     ..   ........{'',:!i>l~+jYkzdhbpbbdbbdkpqkao**MMMWWWWWZ   .... ......                 ..                                
+           .                                                    ....   );.'`^^^^::l_tZ'Cqqkdqpppddbbhhoo##MWWWW&&&&&%     .   ...                                  .      .         
+                                                         .  .        `_  . `''```,^x xXYQOqqZmOqqpbbbhho**MW&&888&w&&8n.. ........  .                                 .   .         
+                . .                                 .  ..  ...  .   ~(..      .'Il~ !(nxucJUUJ0QZddbwpao*MMW88%%88a8%%88  ...    ...                                    .           
+                                                        .           b?       ';!:<f ;>(|r?1|11fzOObddbba#MW&8%%%%%8%%%%&% .   .     .                                   . .         
+                                       .               .   .    .  &u?.    `'..' 'i 'l]?]?]?><|jXCL0L0qho#M&88%%%]%%%%%888         ..                                               
+                                                       . ....   . []I  '? :.      .) `I+[[?~>)tttrvnUQwdka*#M&8%*%BB%%%%888    ..  ..                                    .          
+                 .            .                    . . .  .      ,r.   |(< ....     } .>}-~<~+t}()f1frLqpkho#W&8O8%%%%%%%88r.  .... ..                                   ..  .      
+         .  ..          . ..                           .  .   .  BhB   >r .......    .~.!:<)n.<.{Y+urtXLJmkdooCcM&8%%%%%%%%% .   .                                                  
+                                                      ..  .  ..  @O^w  ))    ......'   .`^;,l){[fXZ_,LQ0mwdb,Xko*MMW88%%%%%8m   .. . ..                                             
+               .                                        ..       Yl   j Z.   ...''.     '..,<!?}|[tJw*)Qm~*'kbako*MW&88%%%%88   ... ..                                    .  .      
+.         . .    .                               .   .....       (X    . ?Q   ....'..       ,:_{)(YXpdpbbWx0ho*#o*MMMM&&8%%%8   ... ...                                 . .  .      
+                       .                        .    ....   .  .  '     ' ~M   .  ''... .   `lII>rYZqmqhahbmOw*#M*WMMMMW8888&   .    .                                  .           
+                                                .    . ...             -  .o   ..........   'I~`+fn{1rQpkahwO'pMMMMM#WM&&&&88  ..    .                  .               .           
+                                                    ....      ..       .  J)  .   . ....'..  ',!-nf!!IiuZqZwZtJa#MLh*#MW&&W&L  ....  ..                                 .          .
+                                                     ...       d .&iq..   )o         .. .... . :'~rf|,><zqbwq+vkbM#MMWMMWWWW    .   ...                                 .           
+                                       ..        . .... .       }x%rU;     . ^;inwqbht:' +X0mwl   .?|i'X0wddbwmboMMMWM#M#MM.. . .. . .                               .          .   
+                                                  ..  . .     .  l` U&| .     ^~?^  ,+nw'...  `    >[`>YppkkvQzQb*MMMWWM##| . ..   .                                                
+                                                  . ......  .    <  .kI     .      .               )tx(?jCbzzqwpbkoa****#O   .    . .                                               
+                            .   .                 ...... .... Y &z   ] ,^'    '^    : ;`.o.      :-OwbbZr^mQQqmZOmOpddbk^    .    ..                                    . .     .   
+                                                      .       .b.      .:'    .'_}.    .Y,) `.''.`+OCQUzf 'li,;;n)|-)XJ    .     ...                                                
+                                      .              .        |               `!lII`.. `b  '   '  uw0.    ...'`^'..''  .      . .                                                   
+                             .                      .      . J 0..            `[~`'.`  r^ .    .'.   . .!III,`.     .      ...        .                                 .   .       
+                                         ... .     ...   .   &        '  I . .!:i^I~I`;b  `                        .... . ....                                        .     .       
+           .                        .   ..   .   .  .       aj]..    .   n .  >I,:i_,;d....           .   .        ... . ...                                                        
+                                     .       ....       . ...l ...          `?,.^.1}|na. ,                       .  .       .                                                    .  
+                         .      ...  .         .   fffff      ,j ^  .      I<l^ .^>fnLLuxnZ   CXzcY                 .     .....  . . ...... ...  ..  ..  .  .                       
+                           .... .   [<<~~+++{vx-  ^????h .    k>          l<}<;' .~fYmooo*C   x**o#     .])zZ0QCJUo@<         .  .. ....       .  .. .  . .                   .     
+                          ... ..  ,<<<~~~~~~++?X  ,??-?a    . @1        `_]{~:,'  :+cq####Y   xM###    ujddqmO0QCJJUk .                 .                ....               .       
+                            .    ;<<<>C<  . Yl_v  ^----o     MrB. .    .;][l'..''  ..C##MWX   nMMM#   tahbdwJ  . lz}d   ..                                 .                        
+                          .      >>><8C           '---?M b1111wz.       +(CQZmqox    XMW&Wc   vWWW*   Q*ahb*              .YJqOYYw@r  .     LY**qZwoBw   ..   .                     
+                            .    !>>>>]Urn^       ^----?][}}{1))@O   ._zzYU0OmwdbB;  ZMMW&c   vWMMh   )*akdqk&r         ^cccvvczXzzzzk ..^ZtCCCLQ0OZmwm    . ..                     
+                           . .    !>>>>><<<1wc)   ^-_+-?]' .!111)o  -rxnzn    Ipkh$  q#MMWu   cMM#h    <kbpqmO0LCZ%    !wvuuv`.  [?zXXm ~czYUJCz   :1?m    .  .        .    .       
+                   .    . .  ..     li>>><<>>>#0. .~+--O     [}{1W  _frx8Crj||[wpbh- q*###r   v##*k      u_wZOQCJYzc$  Lvnnu&qqpqmYcccd ZrXXXX                             .        
+                              .         );>>><<Bz `~++_Z   . ]}{{# .|ffrnvcXUCQOmqb- Jhhaof   noahh           Z~YXcvuW qxxxnnnnnnnuvccC vvzzXO ..         .                         
+                          .      j(       .l<<<r1 '++++Z     ]}}{a  }|tjW       .    |ddbbx   rbbbh   C         ffunnQ zrxxxO    .      t(cccO            ... .                     
+                 .    ..   ...   <Lcxv... oi>>>Y+ `++++O    .][[[d  1|||fM(.    _;x  Umwwqn   xqqm#   wC@Z>    X)nxxr( ,irrru?.    (vf  ]<vvvv%`   Yzrk   .                      .  
+                  .           .  !!iii!!!ii>>>c,...~~~+Q     ?]][b   I(||fjYQJzvzXj  (O0Q0w%..-0Q00%J qXzcvvunnxxrrrn    :jrrxrLoaJrxn   ``vvvvcvZwczzQ   . .                       
+                             .   .:i!!!!iii>>     `~~~+0     ?]]]q     `)t|ffjxnvn`   'JJCCp   ?CCJYu  `-cunxxrrjtO       .,frrxrrxxrY  .  .,xvvvvvvcn[              .              
+                             .. . . ....        .  .   .           .    ..  .                                                                           ...                         
+                                     ..                      .                                                          .               .   .         ...                           
+               ..     .            .`:^^`''.....  i.''.1.   .'''.-    ...'^,:,```..    ..``>    .'`,<   ..',;;;I;,...  . .. .',;!!l^.   .. .. `;i~<l.                          ..  .
+                                `:::::::::::I+i`  ^Ill+L^   'iii-d'  `!>-][[}{1)1||. l-tjjfZ`^?1fftnx ]<[1)111{}}{{>`   ^^I<]}}{111111^..,^,_{(|tffff1]                             
+                                l,;lii!!;::;:;-fI ,II!jwI  .;<>i1hl.:l_-]|)->>~-}nc  <|rjvZ0`;1rrfYUr.|(|jrj|{}[}}}{{i.!<<[})xXznj|()z+.i>+1(|xJCUCYcvj.                .. u        
+                                i~~>;`....,I;;~L[.?<IInw>  ^>+>!]d?i}_-{Lvl,'...`|u`'>frrZLI l1xrxb(`'_rf-!:''.lr1}})xi}}[[|0x+:`',I~c+l[-)(|zJ{iII!?ru'                 uf << . ^  
+   ..     ..                    ';^.''`^:i+;::-hv'(_Ilcm<  l]-i>|b]|r+_|Of]+!lIlIl(-l)rxnmJ^ !tunvd)' :;'.'^:;:>j1}}|O{f}}}uO|1}-<><<?{?n1((tY)'.   .;;                         .   
+    .                      .    ...`;IIIIlI::!vq|'x|Iic0~. l[+!>nk(?|__[f)[][[{11|mr+nvnn0XI ~juncp1.  ':i+][]][{{{(Cm[v{}}|cr(((ft1{fL]vf)(rL},.  .^^'                           .."
+f95 = "     .                                                   .                                                     .                                            .                    .  
+  .... ..         .   .    ..   ...      ..                                .. ..  ........ .. .................            .                          .. .. ...  ..     . ... . ... 
+  ..   ..  .   .  . ..       . .. ..   .                               .    .   .....  .  ....................        .         .         .     .           .....   . ... . .   ... 
+  .. .. .   .    ..             .               .                    .         .....   .   ....... .............. .. .                        .                    .      .         
+ .  . .  . .        .  . ..  .     .   .   .        . ..               .  .. ........                 .  ........  .........                . ...     .        ......   . . .    .  
+       .  .            .   .               .    . .        .    ..   ..  .... ...  I(nYLmp)qdbkkhhhkh>     . ....    ..... ....      .. .   . . ..    .   .       .      ..  .  .   
+..       .       .....     .              ..      ..     .     . .    . ...   ,`I]fuvuvO;wmqddbkbhbhhao***#+     ....   ......        .              .  .     ..     .    . .   .   
+       .        ..            ....              .          .   .  ..       <>^:;;<](r0p^Obbkbbkkbkkkhaooo**#MMMX    ...    .. .     . .                      ..            ..       
+     .     .  .                      .              .       ..  ... .....1`.,,IlilI-|QtXbhppdbpbdpkqdhao*#MMMWWWW&L   .... .......            .   ..                                
+         . .                                                  . .... . |;.''`,`^:l>?nw(Qwppqwqqwpqdphhao*#MWWWW&&&&&%     .   ...                                       . .         
+                  .                                      ..          '+  ...'.'.';IJ`rczQZwwOOm0mdbdbkho*kMW&&&888W&88|.  ........  .                                 .   .         
+                . .                                  . ..  ...  ..  ~('       .'Il[ -jj)rzCXzJOOmppdmbao*MMW888%8888%%8&  ...    ...                                   ..           
+                                                        .           p+       '!I^II.!~){1?|1_?(COLqqdbd*#MW&8%%%%#&8%8%&8 .   .     .                    .              . .         
+                                                       .   .    .. &v<.. .  .  '' ) ,I?-_~<-I][jYYLQUOdho#MW88%%88%%%%%888         ..                                               
+                                                       . ....   . 1]<  :-'.       '..,I-_<-I:-[?f|nxU0qdha*#M&888%BB%%%%888    ..  ..              .                     .          
+                 .            .                        .  .      :1'   v|'          ! .+!]>l<_j]<(-]xYZwpkao#WW&&8%%%%%%%88j.  . .. ..                                    .  .      
+         .  .           . ..                       .   .....     B*W  {ri  ....     ,.u I;<{(:<`(f(|)nUUUdbkaaY*W&8%%%%%%%%8 .   .                                        .         
+                                      .               ..  .  ..  BO^8  m`     ....     ..^,'<{-[uzz (JLJQObb:da##MW8%%%%%%%8m   .. . ..                              .              
+               .                                      . ..     . Xl   ,.b     ..'' .    '..;,i]+~ru0w'0Zx(qrhdhh*#M&888%%%%88   ... ..                                  . .  .      
+.         . .    .                               . . .....       CX    B L    ...'...       `,))-nv0wq0dk^+qho**o*#MMM&&88%%8   ... ...                                 . .         
+                       .              .         .    ....    .  ' `    I  O;   .  '..   .   :;;`_1LZZqdhako~fh*##*MMMMW&8888&   .    ..                                 .           
+                                                .    . . ..           .f  ~>   .........   .`:,`-((IftLbhhpZqua###MMM#M&&&&88  ..    .                                  .           
+                                                    .. .      ..      X.  h`      . .....    .'!([{:^^1YmmmQwnp*Mkp**#MW&&&&u  ....  ..                                 .          .
+                                                     ...       b.^q~k     w'      .  ... ..  '  `<x(!.!(LpbQOQ0koM#MMMMMMWWW    .   ...                                 .           
+                                                 .  . . .       ]0Wx_)     ' ^;[JOwbLi' '|UQZ}    I-< }JXdbqqq0b*MMMMW#M#MM . . .. .                                 . .            
+                                                  ..  ...     .  ?` xa.      .'],. .I(UY   ...'   '[,`(Cdbbb?0Jwh##MWWMM##|   ..   .                                                
+                                                   ....... ..    f  l&      .      .    `.        >n?nI]umbmOqwqdaho*o**#m  ..    . .                                       .       
+                            .   .             .   ......  ... Q 8m   U `.     '`    ^ . v ..     :tOqdqJ-.]wqwZOZZOdbddh^  . .    ..                                      .     .   
+                                                    ...        k..     ..     .'~I     'q.' ..'..>x0Y0Xc| .<IIlic([]|JQ    .   . ...                                                
+                                                     .     .. n               I>;`'.   -o  .`  . IQw]     ...'`^'...`  .       ..                                                   
+                             .            .         ..    .. w )              ^i~,''. .O.  <   .'  . . 'lIII,`.     .      ...                                          .   .       
+                                         ... .   .....   .   &'       ^  `   .;^;i:i:.)I  .      .                  .   ......                                                      
+           .              .         .        .  .. ...      dj)..     ...(.  `; ^^<::>o...+           .   .        ... .  .                                                         
+                                     .   .  ..  .       .  ..I....          :>.'^'-<1XQ .,                       .. .       .                                                    .  
+                         .      . .  .         .   fffff'     '| .  ..     <_''' !>1cJvuxrm   CXzcY                 .     .....  . . ......  ..  ..  ..  ..                         
+                           .... .   [<~~~+++}ux] .'????h..    a<          >i->:  '_fJmooo*C   x**o#      1)XZ0QCJUa@>         . ... .....      .  ..    ...                   .     
+                          ... ..  :<<<~~~~~~++?J .`??--o    . Bn        '<?+l `   I-Cq####Y   xM###    nrddqmO0LCJJUh .                 .                ....               .       
+                            .    :<<<>J~    XI~u  '?---*.    wc8  .   .'l--:..''.  . C##MWY   nMMMM   rohkdqJ  . lz}d    .               .                 .                        
+                          .      >>><MJ           .---?M p1111mY`       +(CQZmqox    XMW&Wc   cWWW*   Q*ahb*         .    `XCq0YYw@|  .    .LX#oqZwoBO   .    .                     
+                           .     I>>>>-Jrn:       '---??][[}{1))Bm   ._zzXUQOZwpbB;  ZMMW&c   vWMMh   (*akdqk&r         ,uXcvvczXXzzzw . IZjCCCLQOOZmwZ    .  .                     
+                           . .    l>>>>><<<[wvt   '-_+-?]' .l{11)*  +rxnzn    lpkh$  q#MMWu   zMM#a    <kbpqmO0LCm%    ~mvuuv..  [[zXXX {cYYUJCc   ;)[m    .. .             .       
+                   .    . .. ...    !!>>><<>>>aQ   ~+--m     [}{{W  _fjx&Cjf|t}wpbh- q*###r   c##*k      u_wZOQCJYzc$  Qvnnu&dbbpwXccca ZrXXXY               .             .        
+                              ..        }I>>><>%z .~++_w  .. ?[{{# .(ffrnvcXUCQOmqb- Jhhaof   noahk           O~XXcvuW dxxxnnnnnnnuvccL vzzzzO  .         .                         
+                          .      jr    .  .I<<<|1 .++++w     ]}}}a  [|tjW       .    |ddbbx   rbbbh   C         jrunnm YrxxxL    .      tfcccq  .          .. .                     
+                 .    ..   ...   <CYrv'.. #ii>>Y+ .+~+_m    .?[[[d  ||||jWr.  . };x  Umwwqx   xqqm#   wLBm<    z}nnxr| :>rrrc[.    rvr  }lvvvv8'   Yzrw   .                      .  
+                  .              l!iiii!!i>>>iv:.. ~<++O     ?]][b   l)||fjzLUcvzXj  (0QQ0m%. -0Q008X qXXccvunnxrrrru   .;rrrxrJkbXrxu   ^`vvvvcvO0vczQ   . .                       
+                            ...  .:!!!!!iii>i .   '~~~+O     ?]]]q     `{t|ffjxnvn'   .JJCCp   ~CCJYx  `-cunxxrrj|L       .,trrxrrxxrU  .  .^rvvvvvvcr+      .            .         
+                              .   . ....           .                    ..                                                     .                        ..                          
+                                      .                      .           ..                                             .    .     .    .   .         ..                            
+               ..    ..         .  .`,^^`''....   I ''.)'   .`''.]    ...'^,:,^``'.   ..'``~    .'`,~   ..`,;I;I;,...  . .. .',;!!l^. .  .....`I>+~l'                          .   .
+                                ':::::::::::I+>^  ^Ill(Q^   '>ii?p`  `!>-][[}{111||. l-tjjfm`^?1fffnj ]~}1)111{{}{{>`  .^^I<]}{{111)11`.':,:_{(|tffff1]                             
+                                I,;li>ilI::;:I_fI :II!fml  .;~>i{h>.;l_-]|1_>i~-}nc  <|rjcZQ`;{rrfYUr.|(|jrj({}[}}}{{>.i<<[})nXcxj|()z~.i>+)(|nCCUCYcvt                 .. u        
+                               .;~~>;`....,l;;>O}.?<IIuw<  ^>+>!?d]>}_-{CnI^'...`(u`'>frrZLI l1xrxb1`'_rf-l,'..ix1}})xi}}[[t0r~:`',I~c~!}-)(|XJ1iIIi?ru'                 uf << . ^  
+ . ..     ..                    ';^.''`^:!+I:;-kc`)?I!vw+  I]-ii1d[|x__|0f]+illlIl(-l)xnnmU` !tunvd|' :;'.'^:;:>j1}}tZ1f}}}v0|1}-<><<_{?n1((tY['.   .;;                         .   
+    .                      .    ...`;IIIIlI:;!vpt`(1IiXO+. l[_!>nk(]t-_[f)[][[{11|wx+nvnuOYI ~runcp1.  ':i+][[][{{}(CZ-u{}}|cj|(|ft1{jL]vf)(xC[,.  .^^'                           .."
